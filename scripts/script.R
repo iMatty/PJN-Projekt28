@@ -1,5 +1,7 @@
 #Ladowanie bibliotek
 library(tm)
+library(hunspell)
+library(stringr)
 
 #zmiana katalogu roboczego
 workDir <- "C:\\Users\\mwmat\\Desktop\\PJN-Projekt28"
@@ -8,7 +10,9 @@ setwd(workDir)
 #lokalizacja katalogow funkcjonalnych
 inputDir <- ".\\data"
 outputDir <- ".\\results"
+workspaceDir <- ".\\workspaces"
 dir.create(outputDir, showWarnings = FALSE)
+dir.create(workspaceDir, showWarnings = FALSE)
 
 #utworzenie korpusu dokumentow
 corpusDir <- paste(
@@ -71,7 +75,7 @@ lemmantize <- function(text) {
 }
 corpus <- tm_map(corpus, content_transformer(lemmantize))
 
-#eksport korpousu dokumentÃ³w wstÄ™pnie potrzetworzonych
+#eksport korpousu dokumentow wstepnie potrzetworzonych
 preprocessedDir <- paste(
   inputDir,
   "tematy - przetworzone",
@@ -79,3 +83,158 @@ preprocessedDir <- paste(
 )
 dir.create(preprocessedDir)
 writeCorpus(corpus, path = preprocessedDir)
+
+####################################################################################################################################
+
+#utworzenie korpusu dokumentów przetworzonych
+corpusDir <- paste(
+  inputDir,
+  "tematy - przetworzone",
+  sep = "\\"
+)
+corpus <- VCorpus(
+  DirSource(
+    corpusDir,
+    pattern = "*.txt",
+    encoding = "windows-1250"
+  ),
+  readerControl = list(
+    language = "pl_PL"
+  )
+)
+
+#usuniêcie rozszerzeñ z nazw dokumentów przetworzonych
+cutExtensions <- function(document, extension) {
+  meta(document, "id") <- gsub(paste("\\.",extension,"$", sep=""),"", meta(document, "id"))
+  return(document)
+}
+corpus <- tm_map(corpus, cutExtensions, "txt")
+
+#tworzenie macierzy czêstoœci
+tdmTfAll <- TermDocumentMatrix(corpus)
+tdmTfidfAll <- TermDocumentMatrix(
+  corpus, 
+  control = list(
+    weighting = weightTfIdf
+  )
+)
+tdmTfBounds <- TermDocumentMatrix(
+  corpus, 
+  control = list(
+    bounds = list(
+      global = c(2,16)
+    )
+  )
+)
+tdmTfidfBounds <- TermDocumentMatrix(
+  corpus, 
+  control = list(
+    weighting = weightTfIdf,
+    bounds = list(
+      global = c(2,16)
+    )
+  )
+)
+dtmTfAll <- DocumentTermMatrix(corpus)
+dtmTfidfAll <- DocumentTermMatrix(
+  corpus, 
+  control = list(
+    weighting = weightTfIdf
+  )
+)
+dtmTfidfBounds <- DocumentTermMatrix(
+  corpus, 
+  control = list(
+    weighting = weightTfIdf,
+    bounds = list(
+      global = c(2,16)
+    )
+  )
+)
+
+#konwersja macierzy rzadkich do macierzy klasycznych
+tdmTfAllMatrix <- as.matrix(tdmTfAll)
+tdmTfidfAllMatrix <- as.matrix(tdmTfidfAll)
+tdmTfBoundsMatrix <- as.matrix(tdmTfBounds)
+tdmTfidfBoundsMatrix <- as.matrix(tdmTfidfBounds)
+dtmTfAllMatrix <- as.matrix(dtmTfAll)
+dtmTfidfAllMatrix <- as.matrix(dtmTfidfAll)
+dtmTfidfBoundsMatrix <- as.matrix(dtmTfidfBounds)
+
+#eksport macirzy czêstoœci do pliku
+matrixFile <- paste(
+  outputDir,
+  "tdmTfAll.csv",
+  sep = "\\"
+)
+write.table(tdmTfAllMatrix, file = matrixFile, sep = ";", dec = ",", col.names = NA)
+
+##################################################################################################
+
+#lokalizacja katalogu ze skryptami
+scriptsDir <- ".\\scripts"
+
+#analiza g³ównych sk³adowych
+pca <- prcomp(dtmTfidfBounds)
+
+#przygotowanie danych do wkresu
+legend <- paste(paste("d", 1:19, sep = ""), rownames(dtmTfidfBounds), sep = ": ")
+x <- pca$x[,1]
+y <- pca$x[,2]
+
+#wykres dokumentów w przestrzeni dwuwymiarowej
+options(scipen = 5)
+plot(
+  x,
+  y,
+  col = "orange",
+  main = "Analiza g³ównych sk³adowych",
+  xlab = "PC1",
+  ylab = "PC2",
+  xlim = c(-0.16,0.16),
+  #ylim = c(,)
+)
+text(
+  x,
+  y, 
+  paste("d", 1:19, sep = ""),
+  col = "orange",
+  pos = 4
+)
+legend(
+  "bottom",
+  legend,
+  cex = 0.6,
+  text.col = "orange"
+)
+
+#eksport wykresu do pliku .png
+plotFile <- paste(
+  outputDir,
+  "pca.png",
+  sep = "\\"
+)
+png(filename = plotFile)
+options(scipen = 5)
+plot(
+  x,
+  y,
+  col = "orange",
+  main = "Analiza g³ównych sk³adowych",
+  xlab = "PC1",
+  ylab = "PC2"
+)
+text(
+  x,
+  y, 
+  paste("d", 1:19, sep = ""),
+  col = "orange",
+  pos = 4
+)
+legend(
+  "bottom",
+  legend,
+  cex = 0.6,
+  text.col = "orange"
+)
+dev.off()
