@@ -1,0 +1,164 @@
+Myślenie komputacyjne.
+Informatyka dla wszystkich uczniów
+Dyskusja nad kształtem edukacji informatycznej w szkołach jest prowadzona na ogół
+na dwóch biegunach – wydzielonym zajęciom informatycznym obok komputerów na innych
+przedmiotach jest przeciwstawiane wykorzystanie komputerów głównie zintegrowanych
+z innymi przedmiotami. W ostatnich latach w wielu krajach, w odpowiedzi na malejące
+zainteresowanie uczniów karierami w dziedzinach informatycznych i technicznych, powraca
+do łask przedmiot informatyka, który w naszym kraju nigdy nie został usunięty ze szkół.
+W tym opracowaniu, na tle rozwoju kształcenia informatycznego w polskich szkołach,
+jest zaprezentowane myślenie komputacyjne, jako metoda rozwoju kompetencji
+informatycznych wszystkich uczniów.
+Początki edukacji informatycznej
+Pierwsze regularne zajęcia z informatyki w polskiej szkole miały miejsce w połowie
+lat 60. XX wieku – był to przedmiot programowanie i obsługa maszyn cyfrowych,
+prowadzony w III LO we Wrocławiu. Uczniowie pisali programy w zeszytach, a później
+uruchamiali je na komputerze Elliott 803 w Katedrze Metod Numerycznych Uniwersytetu
+Wrocławskiego. Programy służyły do wykonywania obliczeń matematycznych. Przez niemal
+dwadzieścia następnych lat wykorzystanie komputerów w edukacji niewiele się zmieniło,
+jedynie przybywało dużych maszyn w różnych ośrodkach, które chętnie udostępniały
+je młodzieży ze szkół.
+Czasy elementów informatyki
+Z pojawieniem się mikrokomputerów (IBM PC, ZX Spectrum, Elwro 800 Junior)
+w połowie lat 80. XX wieku stało się dopiero możliwe rzeczywiste upowszechnianie edukacji
+informatycznej, która na początku ery mikrokomputerowej nadal w dużym stopniu
+ograniczała się do wydzielonych zajęć informatycznych – początkowo był to przedmiot
+elementy informatyki. Pierwszy program nauczania tego przedmiotu dla liceów powstał
+w 1985 roku (PTI), a w 1990 roku został zatwierdzony program elementów informatyki dla ostatnich klas szkoły podstawowej. Na początku lat 90. XX wieku, zespół z Instytutu Informatyki Uniwersytetu Wrocławskiego kierowany przez autora przedstawił modułowy program nauczania elementów informatyki, który mógł być dostosowany do różnych warunków nauczania. Inny zespół kierowany przez autora opublikował pierwszy podręcznik do elementów informatyki, uzupełniony w 1997 roku przewodnikiem dla nauczycieli. Podręcznik był bardzo uniwersalny, gdyż mało zależał od konkretnego oprogramowania – miał aż 9 wydań i do dzisiaj można go spotkać na niektórych zajęciach. Poza budową komputerów, opisem systemu operacyjnego i programowaniem w języku Pascal (do dzisiaj uczonym w szkołach), znalazły się w nim rozdziały omawiające edytor tekstów i arkusz kalkulacyjny.
+Początki regresu nauczania informatyki
+Wydzielone zajęcia informatyczne w polskich szkołach były bardzo poważnie
+traktowane w kolejnych reformach systemu oświaty od drugiej połowy lat 90. XX wieku
+i nigdy pod żadnym naciskiem nie pozwoliliśmy1 usunąć ze szkół przedmiotu informatyka,
+chociaż taki przykład płynął zza Atlantyku, gdzie od lat 90. XX wieku komputery w szkołach
+były wykorzystywane głównie do kształcenia umiejętności z zakresu technologii
+informacyjno-komunikacyjnej. Obecnie w Stanach Zjednoczonych przywraca się kształcenie
+w zakresie informatyki, co ma powstrzymać spadek zainteresowania uczniów karierami
+informatycznymi, wynoszący w ostatnich latach aż 50% (podobnie jest w Wielkiej Brytanii).
+Powody zapaści
+Z jednej strony wiele osób, w tym nauczyciele i rodzice, a także niektórzy naukowcy,
+nie uważa informatyki za niezależną dziedzinę nauki, a zatem także, za szkolny przedmiot.
+Duzo osób myli i utożsamia informatykę z technologią informacyjno-komunikacyjną
+i sprowadza edukację informatyczną do udostępniania uczniom i nauczycielom komputerów
+i Internetu w szkole i w domu. Nie odróżniają oni stosowania komputerów i sieci Internet
+od studiowania podstaw informatyki.
+Z drugiej zaś strony, jest wiele powodów zmniejszonego zainteresowania samych
+uczniów informatyką, jako dziedziną kształcenia i przyszłą karierą zawodową. Na początku
+informatyka była kojarzona z programowaniem komputerów. Na przełomie XX i XXI wieku
+główny nacisk w szkołach zmienił się diametralnie – kształcono z zakresu korzystania
+z aplikacji biurowych i Internetu. Obecnie wielu przyszłych studentów zdobywa pierwsze
+doświadczenia informatyczne przed wstąpieniem na uczelnię. Co więcej, dostępne
+oprogramowanie umożliwia tworzenie nawet bardzo złożonych aplikacji komputerowych bez
+wcześniejszego zaznajomienia się z: logiką, metodami programowania, matematyką
+dyskretną, które należą do kanonu kształcenia informatycznego. W rezultacie, absolwenci
+szkół średnich nieźle radzą sobie z wykorzystaniem komputerów do zabawy, poszukiwań
+w sieci i do komunikowania się, ale znikoma jest ich wiedza na temat informatyki jako
+dyscypliny oraz o tym, jak funkcjonuje komputer i sieć komputerowa. Dorastając, mają oni
+na tyle dość styczności z technologią informatyczną, że nie interesuje ich rozwijanie swoich
+umiejętności w tym zakresie na poziomie uczelni, a w konsekwencji – kreowanie nowej
+kultury i nowej technologii. Potrzebny jest więc sposób, jak umotywować uczniów, aby
+zainteresowali się tym, co dzieje się poza ekranem komputera, jak zbudowany jest
+komputer i sieć oraz jak działa oprogramowanie, a w dalszej perspektywie, aby tworzyli
+własne rozwiązania informatyczne.
+Chcąc zmienić tę sytuację, zajęcia informatyczne w szkołach powinny
+przygotowywać uczniów do dalszego kształcenia się w kierunkach związanych 
+z informatyką, zamiast utwierdzać ich w przekonaniu, że ich wiedza i umiejętności w tym
+zakresie są wystarczające. Czasem uczniowie są niezadowoleni i zniechęceni sposobem
+prowadzenia w szkole zajęć informatycznych.
+Wydzielone zajęcia informatyczne w szkołach
+Wydzielone zajęcia informatyczne w podstawie programowej zatwierdzonej pod
+koniec 2008 roku dotyczą wszystkich uczniów i obejmują:
+zajęcia komputerowe w szkole podstawowej (klasy 1-3 – zajęcia zintegrowane, klasy
+4-6 – 3 godz. w cyklu kształcenia);
+informatykę w gimnazjum (2 godz. w cyklu kształcenia);
+informatykę w szkołach ponadgimnazjalnych – w zakresie podstawowym (1 godz.
+w pierwszej klasie) i w zakresie rozszerzonym do wyboru (6 godz. w ciągu dwóch lat).
+Zajęcia komputerowe obejmują alfabetyzację komputerową i przygotowują
+do biegłości komputerowej (patrz wyjaśnienie tych terminów poniżej), tak ważnej ze względu
+na szybkie zmiany w technologii. Z kolei Informatyka, nawet już w gimnazjum, ma na celu
+wprowadzenie do informatyki i wykształcenie umiejętności metodycznego rozwiązywania
+problemów z pomocą komputera.
+Uczniowie mogą również wybrać informatykę jako przedmiot maturalny, który jest
+uważany za dość trudny. Jednak w ostatnich latach obserwujemy coraz lepsze wyniki
+maturalne z informatyki, jak i wzrost liczby uczniów przystępujących do tego egzaminu.
+Cel zajęć informatycznych
+Kształcenie na wydzielonych przedmiotach informatycznych było początkowo (lata
+80. i 90. XX wieku) skupione na prostej alfabetyzacji komputerowej, czyli podstawach
+posługiwania się komputerem i siecią. Na przełomie XX/XXI wieku alfabetyzacja została
+poszerzona do biegłości komputerowej, przygotowującej również na zmiany w technologii,
+by np. nie uczyć o kolejnych wersjach pakietu Office. Dużym wyzwaniem, czekającym
+szkoły od 2012 roku, czyli od wejścia reformy do szkół ponadgimnazjalnych, jest oparcie
+kształcenia informatycznego wszystkich uczniów na idei tzw. myślenia komputacyjnego,
+czyli metody rozwiązywania problemów z różnych dziedzin z pomocą komputerów2
+.
+Podobnie jak maszyny drukarskie przyczyniły się do upowszechnienia kompetencji
+w zakresie 3R (reading, writing, arithmethic), tak dzisiaj komputery i informatyka
+przyczyniają się do upowszechniania myślenia komputacyjnego, związanego
+z posługiwaniem się komputerem.
+Cechy myślenia komputacyjnego
+Myślenie komputacyjne, towarzyszące procesom rozwiązywania problemów
+za pomocą komputerów, można scharakteryzować następującymi cechami:
+problem jest formułowany w postaci umożliwiającej posłużenie się w jego rozwiązaniu
+komputerem lub innymi urządzeniami;
+problem polega na logicznej organizacji danych i ich analizie, czemu mogą służyć m.in.
+modele danych i symulacje modeli; 
+rozwiązanie problemu można otrzymać w wyniku zastosowania podejścia
+algorytmicznego, ma więc postać ciągu kroków;
+projektowanie, analiza i komputerowa implementacja (realizacja) możliwych rozwiązań
+prowadzi do otrzymania najbardziej efektywnego rozwiązania i wykorzystania
+możliwości i zasobów komputera;
+nabyte doświadczenie przy rozwiązywaniu jednego problemu może zostać
+wykorzystane przy rozwiązywaniu innych sytuacji problemowych.
+Przestrzeganie tych etapów posługiwania się komputerem w różnych sytuacjach
+problemowych ma zapewnić, by rozwiązania problemów czy realizacje projektów były:
+w dobrym stylu i czytelne dla wszystkich tych, którzy interesują się dziedziną, do której
+należy rozwiązywany problem lub wykonywany projekt;
+poprawne, czyli zgodne z przyjętymi w trakcie rozwiązywania założeniami
+i wymaganiami;
+efektywne, czyli bez potrzeby nie nadużywały zasobów komputera, czasu działania,
+pamięci, oprogramowania, zasobów informacyjnych.
+Autor wraz ze swoim zespołem przygotowuje podręcznik do informatyki dla szkół
+średnich, przewidziany na zajęcia informatyczne z wszystkimi uczniami. W podręczniku,
+materiał nauczania jest realizowany wyłącznie metodą projektów indywidualnych
+i zespołowych, a podejście informatyczne bazuje na idei myślenia komputacyjnego.
+Trudności
+Wiele czynników powoduje, że przed rozwojem edukacji informatycznej w szkołach
+piętrzy się wiele trudności, często obiektywnych. Wymieńmy najpoważniejsze z nich:
+1. Brak nauczycieli odpowiednio przygotowanych do realizacji zajęć informatycznych.
+Większość nauczycieli wydzielonych przedmiotów informatycznych ma przygotowanie
+informatyczne wyniesione ze studiów podyplomowych, trwających 360 godzin. Niewielu
+absolwentów kierunków informatycznych podejmuje pracę w szkołach.
+2. Kształcenie informatyczne w szkołach nie nadąża za zmianami w zakresie i metodologii
+kształcenia informatycznego. Na ogół sprowadza się ono do alfabetyzacji
+komputerowej, nauczyciele informatyki rzadko posługują się metodologią
+rozwiązywania problemów z pomocą komputerów. Do rzadkości należy realizacja
+algorytmiki w ramach przedmiotu informatyka w gimnazjum.
+3. Kształcenie informatyczne z rzadka odwołuje się do rzeczywistych zastosowań,
+z którymi uczniowie spotykają się na co dzień, na przykład w zakresie wykorzystania
+komputerów i Internetu w innych przedmiotach.
+4. Obserwuje się wśród uczniów regres zainteresowania informatyką (o powodach piszę
+powyżej) oraz kształceniem na kierunkach ścisłych i technicznych.
+5. Większość nauczycieli przedmiotów informatycznych nie jest odpowiednio
+przygotowanych do pracy z uczniami uzdolnionymi.
+6. Niewielka jest oferta dodatkowych, pozalekcyjnych zajęć informatycznych w szkołach,
+a także oferta zajęć pozaszkolnych, oferowanych przez nauczycieli ze szkół. 
+5
+Poprawa sytuacji
+Świadomość, że maleje zainteresowanie uczniów studiowaniem na kierunkach
+technicznych, ścisłych, i przyrodniczych, w tym również na informatyce, powoduje
+podejmowanie różnych działań zaradczych.
+U nas w kraju, inicjatywy tego typu można podzielić na dwie grupy, w obu
+przypadkach są wspierane przez fundusze UE. Z jednej strony, MNiSzW wspiera kierunki
+deficytowe, które z kolei oferują studentom dość wysokie stypendia (ok. 1000 zł).
+Z drugiej strony MEN i organy samorządowe prowadzą projekty, których celem – pod
+hasłem: „Człowiek – najlepsza inwestycja” – jest wspieranie rozwoju wiedzy i umiejętności
+w dziedzinach deficytowych.
+Jednym z takich projektów jest Informatyka+ (http://www.informatykaplus.edu.pl/)3
+– projekt prowadzony przez Warszawską Wyższą Szkołę Informatyki (WWSI), w którym
+w latach 2009-2012 weźmie udział ponad 15 tys. uczniów ze szkół ponadgimnazjalnych
+z pięciu województw. Celem tego Projektu jest podwyższenie kluczowych kompetencji
+uczniów szkół ponadgimnazjalnych z zakresu informatyki i jej zastosowań, niezbędnych do dalszego kształcenia się na kierunkach informatycznych i technicznych lub podjęcia
+zatrudnienia oraz stworzenie uczniom zdolnym innowacyjnych możliwości rozwijania
+zainteresowań w tym zakresie. Program ten jest formą kształcenia pozalekcyjnego. Jako jego koordynator merytoryczny i wykładowca chciałbym potwierdzić olbrzymią celowość i słuszność założeń tego Projektu. Edukacja informatyczna w szkołach wymaga
+profesjonalnego wsparcia nauczycieli akademickich, którzy w ten sposób przyczyniają się do poszerzenia wiedzy i umiejętności informatycznych uczniów oraz lepszego
+przygotowania do podejmowania przez nich dalszej nauki i kariery w kierunkach
+informatycznych, a generalnie – technicznych. 

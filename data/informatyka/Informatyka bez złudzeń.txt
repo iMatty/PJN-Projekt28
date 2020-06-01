@@ -1,0 +1,154 @@
+Autor pojawia się w moim życiu jako barwna, niekiedy kontrowersyjna postać
+w 1958 r. Początkowo jako mój student na Politechnice Warszawskiej, a następnie jako organizator Ośrodka Przetwarzania Informacji w jednym z zakładów
+przemysłu ciężkiego, a później kolega w redakcji miesięcznika „Maszyny Matematyczne" (1965-67). Po prawie 20-letniej przerwie, nasza współpraca — tym
+razem na niwie przekazu wiedzy i umiejętności do Polski — odnawia się
+w Stanach Zjednoczonych i Kanadzie pod koniec lat 80.
+W styczniu 2000 r. Andrzej zaprasza mnie do napisania 1-2 stron wprowadzenia do swej książki „Informatyka bez złudzeń". Następne 3 miesiące to moje niespokojne rozmyślania jak, nie tracąc przyjaźni, napisać na 2 stronach, że o informatyce nie można bez złudzeń. Informatyka to kreowanie (yirtual reality) lub
+wykrywanie {data mining) złudzeń. W literaturze o zastosowaniach informatyki
+bardzo częste słowa to „virtual" — nie istnieje, ale jest i „transparent" —jest, ale
+nie widać.
+Dziś po 40 latach znów przyszło mi ocenić mojego pierwszego studenta w informatyce i praktykanta na komputerze Elliott 803. Zainstalowałem ten komputer
+w Instytucie Elektrotechniki w Międzylesiu w 1962 r., aby umożliwić zapoczątkowanie przekazu wiedzy i umiejętności informatycznych z W. Brytanii do Polski. Dzięki temu została wyszkolona pierwsza kadra przemysłowych informatyków i została stworzona baza techniczna dla utworzonego przeze mnie Centralnego Resortowego Ośrodka Przetwarzania Informacji (CROPI) przemysłu
+ciężkiego. Na przykładzie Andrzeja, widać, że z dzisiejszej perspektywy mój
+skromny wysiłek (a w PRL było to zadanie nie lada) nie poszedł na marne.
+Książka oddaje wiernie wiele ról Andrzeja, inżyniera i profesora, informatyka,
+ale i politologa, i historyka, autora książek i publicysty, a także sportowca: syna
+wybitnego polskiego patrioty; dziecka, ucznia i studenta wychowywanego przez
+samotną matkę w atmosferze „noblesse oblige"; studenta architektury procesów
+produkcyjnych; pierwszego w Polsce informatyka „z cenzusem"; niespożytego
+pioniera informatyki w Polsce, wykorzystywanego w otwartej i zakulisowej grze
+przez działaczy i polityków PRL.
+Andrzej poświęca wiele miejsca i emocji pisząc o swojej roli jako wyczynowego tenisisty i prezesa Polskiego Związku Tenisowego. Ten sportowy wątek przyszedł mi z pomocą w pozbyciu się profesorskiej maniery — przyjaźnie albo zjadliwie o innym profesorze i przypomniał także i moją karierę sportową w wioślarstwie. Andrzej w każdej dziedzinie swej działalności stara się dogonić innych lub czas, a jeszcze lepiej wyprzedzić lub zdublować. Niewątpliwy talent i ciężka
+praca pozwala mu to często osiągnąć, co oczywiście nie zawsze wywołuje entuzjazm u równych, a wręcz wrogość u ludzi bez talentu, leniwych, zawistnych
+i krętaczy.
+Główne posłanie książki to nie jak można, ale jak należy się zachować w trudnej czy ekstremalnej systucji. Poczucie obowiązku, honoru, uporu i odwagi dominują w ocenie ludzi i własnych zachowań. Takie wartości są potrzebne nie tylko w zniewolonym kraju. Takie wartości to treść filmowego scenariusza „Człowiek z komputera", jaki powinien powstać z Andrzeja wspomnień.
+W PRL nie tylko w informatyce krzywdzono ludzi i łamano kariery. Każda
+publikacja opisująca wiernie polską rzeczywistość z pozycji wolnych, a nawet
+zniewolonych umysłów jest potrzebna i winna służyć jako punkt odniesienia
+i zwierciadło dla teraźniejszych działaczy i polityków w Polsce.
+Andrzej w „Od Autora" pisze; „do Polski mam stosunek jak do matki", a do
+Stanów Zjednoczonych jak do „żony" i podkreśla entuzjastycznie pozytywy
+kraju Jego osiedlenia w odniesieniu do swojej rodziny, Polski i Świata. Moja
+droga życiowa po opuszczeniu Polski w 1967 r. była podobna do Andrzeja kariery w USA, z tym że jestem obywatelem kanadyjskim (z odnowionym nie
+dawno polskim paszportem). Kanada, kraj o liczbie ludności zbliżonej do Polski, stosunkowo skutecznie broni się przed przyjęciem amerykańskiego modelu,
+wartości i stylu. Moja zawodowa specjalność — technologia modelowania systemów, procesów i zachowań — ułatwia mi analizę i ocenę nie zawsze pozytywnej roli St. Zjednoczonych w stosunku do Polski i Świata. Chyba nie jest
+prawdą, że Polska to „blaski i cienie" a St. Zjednoczone to tylko „blaski". A może ulegam informatycznemu złudzeniu?
+Dziś, kiedy informatyka kwitnie w wolnej Polsce, a na świecie rewolucjonizuje
+społeczeństwa, niech czytelnik wie, że jej początki w perelowskiej Polsce były
+bardzo żywe, twórcze, ale i niezwykle trudne. Niech mi wolno mieć nadzieję, że
+nasza praca pionierów nie poszła na marne, i że ci, którzy przychodzą po nas będą
+podobnie motywowani w umiejętnej pracy informatycznej na rzecz Ojczyzny.
+Prof. dr int Wojciech M. Jaworski Department Of Computer Science CONCORDIA UNIVERSITY Prezes, Genem] Strategies Inc. (www.gcn-strategies.comj
+Przewodniczący Rady Nadzorczej, AI Sewices Inc. (www.aiservice.com) Montreal, Kanada, Maj 2000
+Przedmowa
+Wspomnienia Profesora dr inż. Andrzeja Targowskiego to dzieło nie tylko bogate i wielowątkowe, ale niezwykle interesujące, z wielu powodów. No bo
+„Czterdzieści lat minęło, jak jeden dzień"... Cóż to jednak były za lata.
+Przede wszystkim warto zwrócić uwagę na kontekst społeczny i polityczny
+wydarzeń, które Autor opisuje: w systemie nieformalnym wielu ludzi pomysłowych, inteligentnych i dzielnych próbowało coś jednak zreformować — na małą
+skalę, metodą małych kroków, w dziedzinach (wydawałoby się) politycznie
+neutralnych, a dla Polski pożytecznych. Niestety warunki ówczesne nie sprzyjały nawet nieśmiałym próbom reformatorskim, jeżeli próby te nie służyły celom wyraźnie politycznym. Dzisiaj widać, jak wielu ludzi ofiarnie i śmiało toczyło trudną walkę o postęp naukowy, techniczny i organizacyjny naszej ówczesnej gospodarki. Walkę nie zawsze uwieńczoną powodzeniem.
+W tym kontekście łatwiej będzie Czytelnikowi zrozumieć znaczenie wspomnień Profesora Targowskiego, który postawił sobie bardzo ambitny, znacznie
+wyrastający ponad „drobne usprawnienia" i próby „lokalnych usprawnień", a mianowicie budowę Krajowego Systemu Informatycznego (KSI) opartego na
+FNFOSTRADZIE. Postanowił to uczynić nie „metodą małych kroków," ale możliwie jak najszybciej — albowiem zdawał sobie sprawę z faktu, że bez informatyki rozwój polskiej gospodarki będzie spowolniony, a opóźnień nie da się nadrobić. Nie może dziwić fakt, że człowiekowi podejmującemu tak wielkie zadanie,
+jak budowa KSI „nie było łatwo": spotykał się nie tylko z obojętnością, ale wręcz
+wrogością i musiał toczyć heroiczne boje dosłownie o wszystko — co łatwo odczytać ze wspomnień Profesora Andrzeja Targowskiego. I nie może dziwić, że
+człowiek podejmujący wielkie wyzwania ponosił również większe niż inni porażki —-w planie ogólnym, głównie politycznym. Natomiast w dziedzinie informatyki osiągnięcia Profesora Targowskiego były niezaprzeczalne, a ich ślady widoczne są także w dobie obecnej —w informatyce amerykańskiej i światowej.
+Miałem możliwość bezpośredniej współpracy z Profesorem Targowskim w Jego wysiłkach na rzecz rozwoju polskiej informatyki, między innymi jako Dyrektor Naukowy Ośrodka Badawczo-Rozwojowego Informatyki INFORNA, a współpraca ta była dla mnie źródłem wielkiej satysfakcji zawodowej i naukowej. Mogę
+więc jako uczestnik tamtych wydarzeń powiedzieć: wprawdzie „Czterdzieści lat
+minęło," ale napewno NIE PRZEMINĘŁO BEZ ŚLADU.
+Ślad tamtych czterdziestu lat znajdzie czytelnik w pasjonujących wspomnieniach Profesora Targowskiego. Mnie osobiście szczególnie zainteresowały dwie
+sprawy: pionierska rola Profesora Targowskiego w rozwoju polskiej informatyki
+oraz wpływ jego dzieła i dokonań w warunkach polskich na informatykę amerykańską.
+W polskiej informatyce wtedy, czterdzieści lat temu, wszystko było nowe
+i wszystko było jego dziełem:
+• utworzenie pierwszego w Polsce zakładu naukowo-badawczego zastosowań
+informatyki w przedsiębiorstwie, ulokowanego najpierw w Instytucie Organizacji Przemysłu Maszynowego, a następnie w Centralnym Resortowym
+Ośrodku Przetwarzania Informacji Ministerstwa Przemysłu Maszynowego;
+• prace naukowo-badawcze prowadzone w tym Zakładzie, w ścisłym powiązaniu z potrzebami praktyki zarządzania przedsiębiorstwami takimi na przykład, jak Zakłady Radiowe w Warszawie czy też Zakłady Lamp Elektronowych w Warszawie;
+• utworzenie w Warszawie Zakładu Elektronicznej Techniki Obliczeniowej
+(ZOWAR) i kierowanie nim przez wiele lat, co zaowocowało bardzo dużą
+liczbą prac naukowo-badawczych z zakresu projektowania i wdrażania zautomatyzowanych systemów informacyjnych oraz równie dużą liczbą praktycznych zastosowań takich systemów w polskich przedsiębiorstwach;
+• przeforsowanie stosowania terminu informatyka w miejsce stosowanego
+określenia ETO {Elektroniczna Technika Obliczeniowa) oraz zdefiniowanie
+jej dziedziny w jego licznych książkach i w pierwszym Programie Rozwoju
+Informatyki (1971-75), jaki powstał pod jego kierunkiem;
+• wreszcie Jego wieloletnia działalność ukierunkowana na stworzenie Krajowego Systemu Informatycznego (KSI), zaznaczona takimi dokonaniami, jak
+koncepcja KSI, koncepcja sieci komputerowej INFOSTRADA, pilotowymi
+systemami INFOSTRADA, PESEL, MAGISTER, ŚWIATOWID, WEKTOR, CENPLAN, RESPLAN, TRAKT, INFONET, itd.
+Jestem przekonany, że lektura wspomnień Profesora Andrzeja Targowskiego
+pomoże Czytelnikowi zrozumieć wiele spraw, jakie rodziły się ówcześnie w polskiej informatyce i docenić rolę Autora wspomnień w tych dokonaniach.
+Kolejna refleksja do jakiej pobudziły mnie wspomnienia Profesora Targowskiego to niewątpliwie wpływ jego koncepcji oraz polskich dokonań na rozwój
+informatyki amerykańskiej, a także — dalej idąc — na rozwój koncepcji i praktyki Społeczeństwa Informacyjnego. Wystarczy tutaj jeden bardzo wymowny przykład: termin i koncepcja zaproponowanej (w 1972 r.) przez Prof. Targowskiego
+infostrady przyjęty w USA w postaci information superhighway. Jak pisze Autor
+Wspomnień, zastosowanie infostrad musi doprowadzić do rozwoju cyfrowego
+świata, a Jego koncepcja z 1990 na temat strategii i architektury Elektronicznej
+Globalnej Wioski stanowi tutaj cenną wskazówkę metodyczną. Można byłoby wspomnieć jeszcze o wpływie Profesora Andrzeja Targowskiego na rozwój metod projektowania .systemów informatycznych zarządzania,
+a mianowicie o znaczeniu i wpływie Jego koncepcji typu:
+• metoda architektonicznego projektowania kompleksowych systemów informatycznych;
+• lista podsystemów i sfederalizowanych systemów informatycznych przedsiębiorstwa;
+• Drabina Semantyczna, której szczeblami są dane, informacja, koncepcje,
+wiedza i mądrość, jest to jakby arytmetyka systemów informatycznych zarządzania.
+Zadaniem PRZEDMOWY nie jest jednak streszczanie książki, co zresztą
+w przypadku wspomnień Profesora Andrzeja Targowskiego byłoby i tak dziełem
+niewykonalnym ze względu na ich wielowątkowość, bogactwo fotograficzne i ładunek intelektualny. Kończąc pragnę wyrazić przekonanie, że książka „INFORMATYKA BEZ ZŁUDZEŃ, 40 lat między informatyką a polityką i 20 lat między
+Polską a Ameryką" będzie interesująca lekturą dla wszystkich czytelników zainteresowanych nie tylko przeszłością informatyki, ale również jej dniem teraźniejszym i jutrzejszym. Z książki tej de facto będącej Manifestem Informatyki, skierowanej jakby do przeszłości, wyraźnie można odczytać znaki współczesnej
+informatyki i jej dalsze kierunki rozwoju w przyszłości.
+Prof. zw. dr hab. Władysław Radzikowski
+Wydział Zarządzania
+UNIWERSYTET WARSZAWSKI
+Od Autora
+Oddaję czytelnikowi swoje wspomnienia z 40 lat manewrowania między informatyką a polityką i między totalitaryzmem czarnym i czerwonym a demokracją. W książce przedstawiam mój los na tle maszynerii wielkiej historii, w której
+trybach Polacy tkwią od 350 lat. Była i jest to fascynująca przygoda, mimo, że
+w niej aż dwukrotnie tylko cudem uniknąłem śmierci. Żyjąc w „interesujących
+czasach" zapłaciłem za to wysoką cenę braku stabilizacji i możliwości powiększania dorobku intelektualnego, rodzinnego, koleżeńskiego i materialnego w jednym tylko kraju. W tym trudnym dla mnie procesie ciągłego adaptowania się do
+wyzwań czasu i nowych sytuacji, starałem się działać mając wizję tego, co robić,
+mieć poczucie praktyczności mojego działania i nie stracić twarzy, czyli być
+człowiekiem uczciwym.
+W swej zawodowo-naukowej pracy starałem się i nadal staram stosować podejście wielkiego, polskiego filozofa Tadeusza Kotarbińskiego, który je wyłożył
+w swym dziele „Traktat o dobrej robocie". W większości krytycznych sytuacji
+starałem się robić to, co do mnie należy, ponieważ znam się na informacji (w tym
+skomputeryzowanej), więc nią się posługiwałem i posługuję w tego typu sytuacjach. Do mnie chyba też należy upomnieć się o „stracone pokolenie PRL-u,"
+dlatego napisałem niniejsze wspomnienia. Jako pionier nowej i wielkiej techniki
+i związany z realizacją wielu projektów i idei musiałem niejednej osobie nastąpnąć na odcisk, za co przepraszam.
+W książce czytelnik znajdzie bardzo mocne akcenty polskie. Zatem może narodzić się pytanie, jaki jest mój stosunek do Stanów Zjednoczonych, gdzie żyję
+i gdzie już spędziłem połowę swego zawodowego życia. W tym względzie kieruję
+się zasadą, że do Polski mam stosunek, jak do „matki", a do Stanów Zjednoczonych, jak do „żony". W obu przypadkach trzeba być lojalnym, z tym, że w innym
+odcieniu. Jestem dumny że podróżuję po świecie z amerykańskim paszportem i że
+mogę amerykańskim studentom przekazać moje doświadczenie jako amerykański
+profesor. Świat zawdzięcza Stanom Zjednoczonym demokrację i obronę przed
+komunizmem i nazizmem. Dzięki USA Polska została przyjęta do NATO, czyli
+wróciła na łono Zachodu. Dzięki Stanom, moja rodzina wyszła z kryzysu i nieźle
+prosperuje, dlatego, co dobrego robiłem, czy robię dla Polski, myślę, że było i jest
+dobre dla USA i vice versa.
+Niniejsza książka jest m.in. dokumentem dotyczącym funkcjonowania na co
+dzień Dyktatury PRL, z którego wynika jakże mało sprawny i przestępczy był to
+system. Niech ta książka będzie ostrzeżeniem dla tych wszystkich na Wschodzie
+i na Zachodzie, którym marzy się powrót do czerwonego totalitaryzmu.
+12
+Warto zauważyć, że komunizm pokonany został przez nieocenzurowaną informację, która zdemaskowała kłamstwa i łajdactwa reżimu. W ZSRR glasnosl
+sprowokowała krążenie tego typu informacji, a w Polsce, kiedy prasa podziemna
+w Stanie Wojennym przekroczyła nakład prasy oficjalnej, Dyktatura straciła monopol na informację i rozpadła się pod ciężarem własnej manipulacji. Otóż głównym „bohaterem" niniejszej książki jest informacja, wokół której zabiegi świetnie
+charakteryzują reżim PRL i przyczynę jego porażki.
+Jaka była moja pozycja w informatyce PRL? Raz była wysoka, ale sam sobie ją
+wywalczyłem i starałem się zreformować reżim „od wewnątrz" przy pomocy
+metod technokratycznych. Myślę, że wraz z red. Stefanem Bratkowskim jesteśmy
+przykładem ludzi, którzy promowali ten kierunek reform, czasem może naiwnie,
+ale w końcu PRL upadła i III RP ostro wprowadza w gospodarce ten typ modernizacji. Polska była moim krajem i działałem na jej korzyść, jak tylko umiałem.
+"Na szczęście nie było wtedy hasła „im gorzej tym lepiej". Kiedy spostrzeżono, że
+moje projekty są niebezpieczne dla Dyktatury, zlikwidowano mnie, a nawet próbowano mnie usunąć fizycznie.
+W książce stosuję terminologię taką, jaka była stosowana w danych okresach
+czasu. Mam nadzieję, że niektóre moje idee zostaną wykorzystane w praktyce
+informatycznej i politycznej, przede wszystkim przez młodych adeptów, którzy
+łakną wiedzy nowoczesnej i „mierzą siły na zamiary".
+W ciągu 40 lat pracy w informatyce, prócz wykonania licznych projektów,
+zorganizowania ośrodków i programów rozwojowych, opublikowałem 9 książek
+i około 100 publikacji, w tym 3 książki i ok. 40 prac w USA. W ciągu moich 20
+lat na emigracji (1980-2000) opublikowałem na tematy polityczne i historyczne 6
+książek i ok. 150 artykułów i felietonów (z tego ok. 100 w USA i 50 w Polsce).
+Moja skromna rola „producenta i dystrybutora wiedzy" o demokracji i kapitalizmie od 2000 r. raczej ulegnie ograniczeniu. Polska daje sobie nieźle radę po
+1989 r. i chyba już w takim jak dotychczas stopniu nie potrzebuje rad płynących
+z Emigracji. Teraz wracam do informatyki i jej roli w ewolucji cywilizacji, o ile
+tylko dopiszą mi siły twórcze.
+Serdecznie dziękuję profesorom Ignacemu Człowiekowskiemu i Izydorowi
+Modelskiemu i mjr inż. Bohdanowi Grodzkiemu za cenne uwagi, jakie wnieśli
+do tekstu, aby go usprawnić oraz p. red. Joli Mianowskiej-Hawran za przejrzenie manuskryptu i za uwagi, jak go poprawić.

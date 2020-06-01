@@ -1,0 +1,180 @@
+Astronomia – nauka przyrodnicza, której przedmiotem są ciała niebieskie (obiekty pozaziemskie), a także ich zbiorowiska oraz materia rozproszona w przestrzeni kosmicznej. Celem badawczym astronomii jest przede wszystkim wyjaśnienie budowy, pochodzenia i ewolucji tych ciał. Do metod badawczych stosowanych przez astronomię należą przede wszystkim obserwacje astronomiczne, badania promieniowania elektromagnetycznego (jego kierunku, natężenia, polaryzacji i rozkładu widmowego), badania promieniowania kosmicznego, a także badania materiału zawartego w meteorytach oraz badania bezpośrednie możliwe dzięki astronautyce. W zależności od zakresu badań i stosowanych metod wyróżnia się wiele dyscyplin astronomicznych i dziedzin pokrewnych (astrofizyka, radioastronomia, astronomia radiolokacyjna, kosmologia, astronomia gwiazdowa).
+
+Astronomia uchodzi za najstarszą naukę przyrodniczą. Wyraz “astronomia” pochodzi z języka greckiego, stanowi złożenie wyrazów astron – “gwiazda” i nomos – “prawo”, “nauka” – postać wyrazu w języku greckim to ἀστρονομία . Muza astronomii to Urania.
+
+Nauka ta rozwinęła się około 2 tysięcy lat p.n.e., przede wszystkim w starożytnej Mezopotamii, a także w starożytnym Egipcie i starożytnych Chinach. Początkowo funkcjonowała głównie w związku z potrzebami praktycznymi (rachuba czasu, przede wszystkim dla celów rolnictwa, a także astrologia). Badania astronomiczne mają duże znaczenie także dla refleksji filozoficznej, antropologicznej i światopoglądowej. Refleksja ta dotyczy ogólnej budowy wszechświata oraz miejsca Ziemi i człowieka we Wszechświecie.
+
+Astronomia: Przedmiot astronomii. Obserwacje astronomiczne
+Astronomia współczesna dzieli się na wiele dyscyplin, wyróżnianych pod względem zakresu badań (rodzaj badanych obiektów) i stosowanych metod (metody obserwacyjne). Wyróżnić można cztery główne działy astronomii współczesnej – są to astrometria, astrofizyka, mechanika nieba i kosmologia wraz z kosmogonią.
+
+Astrofizyka bada strukturę fizyczną i chemiczną ciał niebieskich oraz materii międzygwiazdowej. Ze względu na ścisły związek astronomii współczesnej z fizyką oraz ze względu na fakt, że astrofizyka jest najobszerniejszym działem współczesnej astronomii zachodzi obecnie często utożsamienie pojęć “astronomia” i “astrofizyka”. Do głównych działów astrofizyki należy radioastronomia, zajmująca się badaniem promieniowania radiowego docierającego do powierzchni Ziemi z ciał niebieskich, głównie za pomocą radioteleskopów (obserwacja natężenia promieniowania, obserwacja widm badanych ciał, a także obserwacja odbicia fal radiowych wysłanych z Ziemi): główną metodą stosowaną przez współczesne badania astronomiczne są obserwacje widma promieniowania elektromagnetycznego, które ciała niebieskie wysyłają we wszystkich zakresach długości fal (w tym światło widzialne, ultrafiolet, podczerwień, promieniowanie gamma, promieniowanie rentgenowskie i fale radiowe).
+
+Astrometria określana jest także jako “astronomia pozycyjna”. Dostarcza ona materiału faktograficznego dotyczącego położenia i ruchu ciał niebieskich oraz opracowuje metody wyznaczania kierunków ich obserwacji. Stanowi najwcześniej wyodrębnioną historycznie dyscyplinę astronomii. Astrometria rozpada się na trzy główne działy: astronomię sferyczną, astronomię praktyczną i astronomię nawigacyjną. Astronomia sferyczna stanowi teorię matematyczną położeń i ruchów ciał niebieskich na sferze niebieskiej. Astronomia praktyczna obejmuje wiedzę o przyrządach do pomiarów astronomicznych, wiedzę o metodach obserwacji astronomicznych oraz metody wyznaczania współrzędnych położenia ciał niebieskich. Astronomia nawigacyjna obejmuje zastosowania wiedzy astronomicznej w astronawigacji (nawigacja morska i nawigacja lotnicza).
+
+Mechanika nieba to mechaniczna teoria ruchu ciał niebieskich, przy czym ma się tu na myśli przede wszystkim ruchy ciał układu słonecznego. Zadaniem mechaniki nieba jest także układanie materiału do roczników i tablic astronomicznych.
+
+Kosmologia to teoria ogólnej budowy wszechświata oraz o poznaniu wszechświata. Jej działem jest kosmogonia, nauka o powstawaniu i rozwoju ciał niebieskich. Źródła kosmologii współczesnej sięgają starożytności, w tym kosmologii religijnej (mity kosmogoniczne religii starożytnych) i kosmologii filozoficznej starożytnej Grecji.
+
+Za dział astronomii uznana może być także astronautyka. Pozwala ona na bezpośrednie badanie ciał niebieskich należących do układu słonecznego przy użyciu pojazdów kosmicznych oraz aparatury umieszczonej w próbnikach. Wysłanie w przestrzeń kosmiczną sztucznych satelitów oraz loty załogowe w kosmos otworzyło nową epokę w dziejach badań nad wszechświatem.
+
+Inne subdyscypliny astronomii to np.:
+
+Astronomia pozagalaktyczna – badania nad obiektami astronomicznymi znajdującymi się poza naszą galaktyką. Zajmuje się m.in. budową galaktyk, ich podziałem na grupy i gromady oraz jednostki wyższego rzędu.
+
+Astronomia matematyczna – teoria ruchu ciał w polach grawitacyjnych.
+
+Astronomia gwiazdowa – rozmieszczenie gwiazd i materii międzygwiazdowej oraz ruchy gwiazd (specyficznie w obrębie Galaktyki). Własności fizyczne, pochodzenie i ewolucja gwiazd.
+
+Astronomia nawigacyjna – zastosowania praktyczne zjawisk astronomicznych do celów nawigacji.
+
+Astronomia pozaatmosferycza – dział astronomii obserwacyjnej, zajmuje się obserwacjami ciał niebieskich dokonywanymi poza atmosferą Ziemi, głównie za pomocą sztucznych satelitów.
+
+Astronomia: historia astronomii
+W rozwoju historycznym astronomii wyróżnia się dwa główne okresy – są to astronomia przedteleskopowa (okres do upowszechnienia się teleskopu w XVII wieku) oraz trwająca do dziś astronomia nowożytna.
+
+Astronomia, obok matematyki, uchodzi za najstarszą z nauk – wiedza astronomiczna o charakterze naukowym, choć zmieszana z poglądami religijnymi i mitologicznymi, znana była już społeczeństwom prehistorycznym, nie znającym pisma. Planety i gwiazdy to zjawiska w naturalny sposób budzące zainteresowanie ludzi. Co więcej, zjawiska astronomiczne już w początkowym okresie rozwoju cywilizacji ludzkich budzą zainteresowanie ze względów praktycznych. Wiąże się z nimi rachuba czasu (kalendarze rolnicze i religijne), a także niezbędne dla żeglugi wyznaczanie kierunków, współrzędnych geograficznych; za potrzeby praktyczne uznać można także wykorzystanie wiedzy astronomicznej do celów wróżbiarskich (astrologia). Już w starożytnych kulturach Wschodu (zwłaszcza w Mezopotamii i Egipcie) prowadzono regularne, systematyczne obserwacje astronomiczne. Do osiągnięć astronomów starożytnego Wschodu należy np. ustalenie długości roku (wprowadzony w Egipcie kalendarz oparty na podziale roku na 365 dni, a także podział doby na 12 równych godzin) oraz przewidzenie zaćmienia słońca (w starożytnej Mezopotamii, czasy Sargona z Akadu – XXIII wiek p.n.e.) i zaćmień Księżyca, wyodrębnienie i nazwanie wielu gwiazdozbiorów (zwłaszcza w Babilonii), wprowadzenie miary łukowej kąta opartej na kole wielkim (Mezopotamia) oraz rejestry położenia znanych wtedy planet. Najstarsze zachowane teksty poruszające tematykę astronomiczną pochodzą z XVII wieku p.n.e., są to mezopotamskie tabliczki zapisane pismem klinowym, mówiące o planecie Wenus. Szczególnie wysoki poziom osiągnęła astronomia późnobabilońska (okres chaldejski, do VI wieku p.n.e.), która opracowała kalendarz oparty na położeniu Słońca i Planet. Chaldejczycy zajmowali się także astrologią – przez wieki to im przypisywano opracowanie podstaw wiedzy astronomicznej i astrologicznej, stali się symbolem astronomii i astrologii. W sposób niezależny badania astronomiczne rozwijały się w starożytnej kulturze chińskiej, w kulturach Indian mezoamerykańskich (zwłaszcza u Majów), a także w Indiach.
+
+Obok własnych greckich mitów kosmogonicznych religijne i naukowe osiągnięcia astronomii Wschodu wpłynęły znacznie na grecki obraz Wszechświata. Dane zgromadzone przez astronomów starożytnej Mezopotamii były znane pierwszym filozofom greckim (filozofami nazywano wtedy nie tylko filozofów w sensie współczesnym, ale w ogóle uczonych, w tym także astronomów). Dokładny przebieg zapoznania się Greków z astronomią starożytnego Wschodu nie jest znany, największe znaczenie miały tu prawdopodobnie potrzeby żeglugi morskiej i kontakt kulturowy z Fenicją. Astronomią i nawigacją zajmował się szeroko już pierwszy filozof grecki, Tales z Miletu, który przewidział zaćmienie słońca. Astronomią zajmował się także Anaksymander, kontynuator Talesa. Wczesna myśl astronomiczna Greków ma zresztą charakter głównie kosmologiczny, systematyczne obserwacje rozpoczęto później.
+
+Leukippos i Demokryt reprezentowali atomizm starożytny – uważali, że Wszechświat jest nieskończony i składa się z nieskończonej liczby niepodzielnych cząstek, atomów. Według atomistów starożytnych Wszechświat jako nieskończony nie miał środka, tak więc Ziemia nie zajmowała w nim wyróżnionego miejsca. Szczególną rolę w rozwoju kosmologii starożytnej odegrali pitagorejczycy (w tym otoczony legendami Pitagoras), którzy opracowali kilka różniących się poglądów na budowę Wszechświata. Najbardziej znany z nich mówił, że Ziemia jest kulą. Jeden z pitagorejczyków, Arystarch z Samos, jako pierwszy sformułował teorię heliocentryczną, według której Ziemia obraca się dookoła Słońca. Duże znaczenie kulturowe mają poglądy Platona na naturę wszechświata – z punktu widzenia historii astronomii interesujący jest zwłaszcza platoński dialog Timajos. Na dalszy rozwój astronomii wpłynęła także fizyka i metafizyka Arystotelesa, według której ciała niebieskie mają inną naturę, niż Ziemia.
+
+Systematyczne obserwacje astronomiczne w świecie greckim rozpoczął w IV wieku p.n.e. Eudoksos z Knidos. Na poglądach Arystotelesa opierała swój ogólny pogląd na wszechświat słynna aleksandryjska szkoła astronomiczna, działająca w epoce hellenistycznej – jej głównymi reprezentantami byli Eratostenes i Hipparch z Nikei. Do głównych osiągnięć aleksandryjskiej szkoły astronomicznej należy obliczenie obwodu Ziemi oraz odległości pomiędzy Ziemią a Księżycem. Astronomowie aleksandryjscy opracowali także katalogi gwiazd oraz wyznaczyli punkty równonocy (ruch precesyjny Ziemi). Działający w tej samej epoce Apoloniusz z Pergi stosował modele geometryczne do opisu ruchów planet. Syntezę dorobku astronomii starożytności klasycznej przedstawił w II wieku n.e. Klaudiusz Ptolemeusz w dziele znanym pod arabskim tytułem Almagest, które przez długie wieki stanowiło główny autorytet w dziedzinie astronomii. Ptolemeusz na wieki utrwalił teorię geocentryczną. W jego ujęciu Ziemia jest centrum Wszechświata i obiega ją siedem planet, kolejno Księżyc, Merkury, Wenus, Słońce, Mars, Jowisz i Saturn.
+
+Dalszy rozwój astronomii związany był z kulturą arabską. Arabowie przejęli dorobek filozofii i nauki greckiej na podbitych przez siebie terytoriach, wśród których wielkie znaczenie miały ośrodki egipskie (Aleksandria) i syryjskie (Antiochia). Już w IX wieku powstał słynne centrum badań astronomicznych w Bagdadzie. Arabowie tłumaczyli na język arabski dzieła astronomów greckich, zwłaszcza Ptolemeusza. Układali także tablice astronomiczne, rozszerzając greckie katalogi gwiazd. Wynaleźli nowe przyrządy astronomiczne. Do najważniejszych astronomów świata islamu należeli Ibn Junis, Ahmad al-Farghani, Abd Al-Rahman Al Sufi (Azofi), Al-Battani, Al-Zarkali, a w późniejszym okresie sułtan Uług Beg.
+
+We wczesnym średniowieczu dorobek astronomiczny starożytności był słabo znany w Europie, poglądy o budowie Wszechświata opierano wtedy głównie na Biblii. Astronomia arabska stała się podstawą późniejszego rozwoju europejskiej astronomii średniowiecznej – do Europy dotarła głównie przez Hiszpanię. W XII wieku Gerard z Cremony przełożył dzieło Ptolemeusza z języka arabskiego na łacinę. Z nauki arabskiej przejęto w Hiszpanii tablice toledańskie (nazwa pochodzi od miasta Toledo), zawierające informacje o położeniu ciał niebieskich oraz o instrumentach astronomicznych. Na ich podstawie opracowano w XIII wieku tablice alfonsyńskie, nazwane tak na cześć króla Kastylii Alfonsa X Mądrego. Jednym z ważniejszych astronomów XV wieku był działający w Niemczech Regiomontanus, tłumacz Almagestu Ptolemeusza.
+
+Astronomia rozwijała się także w średniowiecznej Polsce. Za pierwszego polskiego astronoma, a także pierwszego polskiego filozofa i w ogóle pierwszego wybitniejszego polskiego uczonego uchodzi pochodzący ze Śląska Witelon (XIII wiek). W XIII wieku żył także niewiele młodszy od Witelona Franko z Polski, wyróżniający się w zakresie konstrukcji instrumentów astronomicznych oraz optyki. Przełomem w dziejach astronomii Polskiej było założenie Akademii Krakowskiej, pierwszego polskiego uniwersytetu – od początku XV wieku funkcjonowała w jej ramach katedra astronomii. W drugiej połowie XV wieku nastąpił żywy rozwój szkoły astronomicznej w obrębie Akademii Krakowskiej. Jej najwybitniejsi przedstawiciele to Wojciech z Brudzewa (Brudzewski), Marcin Król z Żurawicy i Marcin Bylica (Marcin z Olkusza).
+
+Osiągnięcia średniowiecznej astronomii polskiej kontynuował Mikołaj Kopernik, który był studentem Akademii Krakowskiej. Kopernik rozpoczął nowy okres w dziejach astronomii, nauk przyrodniczych, a także poglądu na miejsce człowieka we Wszechświecie – przełom, którego dokonał, określa się terminami “przewrót kopernikański”, “rewolucja kopernikańska”. Kopernikański pogląd na budowę Wszechświata to przede wszystkim odrzucenie starożytnego i średniowiecznego geocentryzmu. Kopernik udowodnił, że Ziemia nie zajmuje we wszechświecie centralnego miejsca. Ziemia i pozostałe planety poruszają się po okręgach wokół Słońca, które zajmuje centralne miejsce w przyjętym układzie (heliocentryzm). Układ ten jest przy tym znacznie prostszy od przyjmowanego dotychczas, co ma istotne znaczenie metodologiczne.
+
+Teoria Kopernikańska miała nie tylko znaczenie naukowe, ale także światopoglądowe. Oznaczała zerwanie z budowanym dotąd obrazem świata, o pochodzeniu w dużej mierze religijnym, szeroko obecnym we wszystkich dziedzinach kultury. Kościół początkowo nie odrzucił teorii kopernikańskiej, zaniepokojenie władz kościelnych zaczęły budzić jednak opierające się na niej nowe teorie kosmologiczne i filozoficzne. Spowodowało to konflikt między rozwojem nauki a władzami kościelnymi. Wcześni kontynuatorzy teorii heliocentrycznej (Giordano Bruno, Galileusz, Johannes Kepler) zmuszeni byli prowadzić swoje badania w tajemnicy. Część z nich, zwłaszcza w przypadku Bruna, miała zresztą charakter raczej spekulacyjny, niż naukowy. W kulturowym rozwoju teorii kopernikańskiej zauważyć można kilka tendencji. Jedną z nich jest wywodząca się od Bruna renesansowa spekulacja kosmologiczna, wskazująca na możliwość istnienia innych niż Ziemia planet zamieszkanych przez istoty rozumne. Kierunek ściśle naukowy reprezentowali zwłaszcza Galileusz i Johannes Kepler. Galileusz powiązał swoje badania astronomiczne z osiągnięciami w zakresie fizyki (swobodne spadanie ciał), a także zastosował lunetę do obserwacji (przełom w astronomii obserwacyjnej). Kepler sformułował prawa Keplera, 3 prawa dotyczące ruchu planet.
+
+Wiek XVII jest okresem rozwoju obserwatoriów astronomicznych. Najsłynniejsze z nich to obserwatorium paryskie powstałe w 1672 roku oraz obserwatorium w Greenwich pod Londynem powstałe w 1675 roku. Z obserwatorium w Paryżu związani byli  Giovanni Cassini i Ole Rømer, z obserwatorium w Greenwich Edmund Halley, James Bradley i John Flamsteed. Ważne prace prowadził w XVII wieku w Gdańsku polski astronom Jan Heweliusz. Wiek XVIII to okres rozwoju konstrukcji teleskopów. Pierwszy teleskop skonstruował Hans Lipperhey na początku XVII wieku, szczególne znaczenie dla ich dalszego rozwoju miał odkrywca Urana William Herschel (1738-1822); na szerszą skalę zastosował teleskopy do obserwacji astronomicznych Galileusz. Konstrukcja teleskopów optycznych i instrumentów przejściowych spowodowała rozwój astronomii gwiazdowej. Rozwój mechaniki nieba wiąże się natomiast z osobą Isaaca Newtona i sformułowanym przez niego prawem powszechnego ciążenia, wyjaśniającym ruchy ciał niebieskich. Isaac Newton uznany może być za ojca kosmologii przedrelatywistycznej, opierającej się na poglądzie o jednostajnym upływie jednorodnego czasu, o niezależności czasu i przestrzeni od rozmieszczenia obiektów materialnych oraz o dostosowaniu Wszechświata do praw geometrii euklidesowej. Kosmologia przedrelatywistyczna głosi więc, że we Wszechświecie nie ma “miejsc uprzywilejowanych”. Do osiągnięć astronomii XVII i XVIII wieku należą wyznaczenie prędkości światła, dostarczenie dowodów empirycznych na ruch orbitalny Ziemi (aberracja światła) i wiele odkryć w obrębie Układu Słonecznego (w tym odkrycie Urana – William Herschel, 1781). Zwieńczeniem osiągnięć astronomii epoki wczesnonaukowej są badania Pierre’a Simona de Laplace’a, który użył rozwijanej przez siebie teorii prawdopodobieństwa do obliczenia masy Saturna.
+
+XIX-wieczny rozwój techniki umożliwił znaczny postęp w konstruowaniu instrumentów astronomicznych. Nowe przyrządy astronomiczne pozwoliły na odkrycie nowych ciał niebieskich i całych ich rodzajów, należały tu przede wszystkim planetoidy. Rozpoczął się także okres żywego rozwoju astronomii teoretycznej i astrofizyki, w tym badania nad budową i ewolucją gwiazd. Astronomia XIX wieku to także okres rozwoju fotometrii i fotografii astronomicznej (John Herschel).
+
+Przełomem w astronomii XX wieku była teoria względności Alberta Einsteina. Teoria względności umożliwiła stworzenie kosmologii współczesnej, określanej z tego względu jako “kosmologia relatywistyczna”. Uwzględnia ona zasadę kosmologiczną, według której “nie ma we Wszechświecie miejsc uprzywilejowanych” oraz rozszerzanie się Wszechświata.
+
+W XX wieku dokonał się także znaczny postęp w technice obserwacji astronomicznych. Nastąpił rozwój nowych rodzajów teleskopów, zastępujących dawne teleskopy optyczne (w tym teleskopy radioteleskopy od 1930 roku i teleskopy podczerwone od 1930 roku). Średnica zwierciadła planowanego Ekstremalnie Wielkiego Teleskopu (ELT) ma wynosić 39 metrów. Do osiągnięć astronomii współczesnej należy m.in. stwierdzenie faktu, że przestrzeń międzygwiezdna wypełniona jest gazem rozrzedzonym (materia międzygwiezdna); pojęcie galaktyki, czyli układu gwiazd i materii międzygwiazdowej; zaobserwowanie mgławic i planet pozasłonecznych. Droga Mleczna, galaktyka, w której żyjemy, nie różni się od pozostałych galaktyk, nie jest w żaden sposób uprzywilejowana we Wszechświecie. To, że Droga Mleczna nie zajmuje centralnego położenia w Kosmosie, nie wyklucza jednak jeszcze możliwości, że istnieje centralny punkt Wszechświata.
+
+Rozwój astronomii współczesnej wpłynął na współczesne formy problematyki kosmologii filozoficznej. Problematyka ta dotyczy skończoności lub nieskończoności Wszechświata, czasu i przestrzeni – postawiona jest w nowym świetle ze względu na odkrycie ciał niebieskich, które są bardzo wielkie i bardzo od nas oddalone. Innym związanym z astronomią problemem filozoficznym i światopoglądowym jest istnienie życia oraz innych niż ludzie istot rozumnych poza Ziemią. Zagadnienia te możliwe są do rozwiązania empirycznego, dotychczasowe odpowiedzi stawiane na nie wiążą się jednak do tej pory z przyjmowanymi koncepcjami kosmologicznymi i modelami teoretycznymi, warunkują je stosowane systemy odniesienia i systemy pojęciowe.
+
+Sławni astronomowie
+Lista najbardziej znanych uczonych w dziejach astronomii:
+
+Arystarch z Samos (ok. 320-250 p.n.e.) – główny twórca astronomii greckiej, oszacował wielkość Słońca i Wszechświata, jako pierwszy zwalczał geocentryzm.
+
+Eratostenes (275-194 p.n.e.) – z dużą dokładnością wyznaczył rozmiary Ziemi, posługiwał się gnomonem.
+
+Hipparchos z Nikei (Hipparch, ok. 190-120 p.n.e) – stworzył podstawy teorii planet, katalog gwiazd oraz tablice ruchów Słońca i Księżyca. Uznawany za największego astronoma starożytności.
+
+Ptolemeusz (II wiek n.e.) – stworzył klasyczny podręcznik astronomii oparty na podstawach matematycznych.
+
+Ibn Junis (Ibn Yunus, zm. w 1009) – jeden z najwybitniejszych astronomów arabskich, twórca istotnych tablic astronomicznych, ulepszył gnomon.
+
+Uług Beg (1394-1449) – sułtan z dynastii Timurydów, zbudował słynne obserwatorium, w którym dokonał dokładnych pomiarów gwiazd.
+
+Mikołaj Kopernik (1473-1543) – najsłynniejszy z astronomów, w dziele De revolutionibus orbium coelestium (O obrotach sfer niebieskich) sformułował teorię heliocentryczną.
+
+Tycho Brache (1546-1601) – jeden z najważniejszych obserwatorów przed wynalezieniem lunet, twórca obszernego katalogu gwiazd, odkrywca supernowej.
+
+Johannes Kepler (1571-1630) – sformułował słynne prawa ruchu planet, rozszerzone później na inne ciała niebieskie.
+
+Galileusz (Galileo Galilei, 1564-1642)  – łączył badania astronomiczne z fizyką ogólną, prowadził obserwacje za pomocą teleskopu.
+
+Johann Bayer (1572-1625) – opracował pierwszy atlas nieba.
+
+Jan Heweliusz (1611-1687) – prowadził systematyczne obserwacje teleskopowe (Księżyc – dzieło Selenographia, Merkury), stworzył udoskonalony katalog gwiazd.
+
+Giovanni Domenico Cassini (1625-1712) – założyciel obserwatorium paryskiego, badał księżyce Saturna.
+
+Christian Huygens (1629-1695) – odkrył księżyce Saturna i właściwy kształt pierścieni Saturna.
+
+Ole Rømer (Olaus Roemer, 1644-1720) – jako pierwszy prowadził badania nad prędkością rozchodzenia się światła w przestrzeni międzyplanetarnej.
+
+Isaac Newton (1642-1727) – jeden z największych astronomów nowożytnych, odkrył stanowiące podstawę mechaniki nieba prawo powszechnego ciążenia.
+
+John Flamsteed (1646-1719) – założyciel obserwatorium w Greenwich, twórca nowoczesnego katalogu gwiazd.
+
+Edmund Halley (1656-1742) – badacz orbit komet.
+
+James Bradley (1692-1762) – opracował potwierdzenie empiryczne teorii kopernikańskiej (aberracja światła).
+
+Leonhard Euler (1707-1783) – genialny matematyk, także wiele ważnych dzieł astronomicznych.
+
+William Herschel (1738-1822) – konstruktor teleskopów, odkrywca Urana.
+
+Caroline Herschel (1750-1848) – pierwsza wybitna kobieta-astronom.
+
+Pierre Simon de Laplace (1749-1827) – obliczył masę Saturna za pomocą metod rachunku prawdopodobieństwa.
+
+Jan Śniadecki (1756-1830) – twórca obserwatorium krakowskiego, biograf Kopernika.
+
+Heinrich Olbers (1758-1840) – badacz komet i planetoid.
+
+Carl Friedrich Gauss (1777-1855) – metody obliczania okołosłonecznych dróg planet.
+
+Friedrich Wilhelm Bessel (1784-1846) – pomiary położenia dziesiątków tysięcy gwiazd.
+
+Franciszek Armiński (1789-1848) – założyciel obserwatorium astronomicznego w Warszawie.
+
+John Herschel (1792-1871) – obserwator gwiazd nieba południowego.
+
+Friedrich Georg Wilhelm Struve (1793-1864) – opracował spis gwiazd podwójnych.
+
+Friedrich Wilhelm August Argelander (1799-1875) – badał ruch własny Słońca w przestrzeni.
+
+Urbain Le Verrier (1811-1877) – przewidział istnienie Neptuna. Wykazał, że ruch peryhelium Merkurego nie może być wyjaśniony w pełni za pomocą mechaniki newtonowskiej.
+
+Anders Jonas Ångström (1814-1874) – jeden z twórców spektroskopii, odkrywca wodoru w atmosferze Słońca. Od jego nazwiska pochodzi nazwa jednostki angstrem.
+
+Marian Kowalski (1821-1884) – obliczył orbitę Neptuna.
+
+Adam Prażmowski (1821-1885) – pierwszy polski astrofizyk.
+
+Benjamin Gould (1824-1896) – badacz nieba południowego.
+
+Jules Janssen (1824-1907) – jako jeden z pierwszych stosował analizę widmową do badania ciał niebieskich.
+
+William Huggins (1824-1910) – pionier spektroskopii; porównywał analizy widmowe pierwiastków i gwiazd. Wykazał, że mgławice zbudowane są z gazów.
+
+Simon Newcomb (1835-1909) – autor efemeryd i zasłużony popularyzator.
+
+Theodor von Oppolzer (1841-1886) – stworzył “kanon” zaćmień Słońca i Księżyca.
+
+Giovanni Schiaparelli (1835-1910) – twórca topografii Marsa.
+
+François Félix Tisserand (1845-1896) – autor charakteryzujących się ścisłością prac z zakresu mechaniki nieba.
+
+George Darwin (1845-1912) – teoria przypływów morza i ewolucji układu Słońce-Ziemia-Księżyc (syn Karola Darwina).
+
+Edward Pickering (1846-1919) – badania z zakresu spektrografii gwiazdowej.
+
+Henri Poincaré (1854-1912) – uważany za najwybitniejszego astronoma-teoretyka wszech czasów.
+
+Edward Barnard (1857-1923) – pionier fotografii nieba.
+
+Carl Charlier (1862-1934) – badania z zakresu mechaniki nieba i astronomii gwiazdowej (kinematyka gwiazd).
+
+Maurycy Pius Rudzki (1862-1916) – prace z astrofizyki, teoria kul gazowych.
+
+Henry Norris Russell (1870-1957) – opracował metodę dokładnego wyznaczania masy gwiazd.
+
+Charles Greeley Abbot (1872-1973) – wyznaczył wartość stałej słonecznej, prowadził badania nad widmem promieniowania podczerwonego Słońca i gwiazd.
+
+James Jeans (1877-1946) – zajmował się budową wnętrza gwiazd, stworzył teorię powstania Układu Słonecznego.
+
+Kazimierz Graff (1878-1950) – autor kilkuset prac, dotyczących przede wszystkim fotometrii wizualnej gwiazd zaćmieniowych.
+
+Albert Einstein (1879-1955) – teoria względności sformułowana przez Einsteina stała się podstawą współczesnej astrofizyki i mechaniki nieba.
+
+Arthur Stanley Eddington (1882-1944)  – zajmował się wewnętrzną budową gwiazd, opracował prawo określające związek masa – jasność.
+
+Tadeusz Banachiewicz (1882-1954) – opracowanie krakowianów, ułatwiających obliczenia, zwłaszcza w mechanice nieba.
+
+Edwin Hubble (1889-1953) – badał przede wszystkim obiekty mgławicowe ustalając, że znajdują się poza Drogą Mleczną. Prowadził odległe obserwacje za pomocą teleskopu w Palomar.
+
+Subramanyan Chandrasekhar (1910-1955) – teoria późnych stadiów ewolucji gwiazd masywnych.
+
+Aleksander Wolszczan (ur. 1946) – odkrywca pierwszych planet pozasłonecznych (egzoplanety).

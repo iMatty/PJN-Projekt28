@@ -1,0 +1,240 @@
+Wstęp
+Nie wiemy ani kto, ani kiedy po raz pierwszy zauważył jasne gwiazdy wędrujące (słowo planetes pochodzi z greki i oznacza „wędrująca”, a aster znaczy „gwiazda”) inaczej niż wszystkie pozostałe na naszym niebie. Wiemy
+natomiast, że już starożytni Grecy znali pięć ze znanych dziś najjaśniejszych planet: Merkurego, Wenus, Marsa, Jowisza i Saturna. Do grupy planet
+zaliczali oni także Księżyc i Słońce, co dawało ogólną ich liczbę siedem,
+a pomijali Ziemię, która w tym rozumieniu planetą nie była. Dociekania
+na temat przyczyn tak dziwnego zachowania planet oraz ich natury przez
+stulecia zajmowały rzesze fi lozofów i astronomów. Początkowo studia te
+ograniczały się do rozważań natury fi lozofi cznej. Z czasem jednak, wraz
+z tworzącymi się podstawami nauk fi zycznych stawały się coraz bardziej
+naukowe.
+Odkrycie kolejnej planety zajęło astronomom bardzo dużo czasu, gdyż
+wymagało to znajomości poprawnego modelu Układu Słonecznego. Model
+taki jako pierwszy zaprezentował Mikołaj Kopernik (1473–1543). Toruński
+astronom obalił, jak wiemy, model kosmogoniczny opracowany przez Klaudiusza Ptolemeusza (100–168 n.e.), zawierający geocentryczny opis ruchu
+planet z wykorzystaniem deferentów i epicykli. Ten niezwykle skomplikowany model w rzeczywistości nie działał dobrze i aby go ratować należało
+go wciąż rozbudowywać, dodając nowe ruchy i skalując prędkości wzajemne poszczególnych jego elementów tak, by uzyskać względnie dokładny opis rzeczywistego ruchu obserwowanych ciał niebieskich. W czasach
+Kopernika odchyłki między modelem Ptolemeusza a obserwacjami były
+jednak już ogromne. Obserwowane przez Kopernika w roku 1497 w Bolonii
+zakrycie Aldebarana przez Księżyc spóźniło się o pół godziny! Wprowadzony przez Kopernika model heliocentryczny w sposób
+znacznie prostszy opisywał ruch planet jako konsekwencję złożenia ich
+ruchu wokół Słońca z ruchem Ziemi na jej orbicie wokółsłonecznej. Przeniesienie środka układu z Ziemi do Słońca można uznać za ostateczne
+odkrycie kolejnej planety w Układzie Słonecznym – Ziemi, a tym samym
+za odkrycie pierwszego układu planetarnego – Układu Słonecznego. Paradoksalnie obserwacje największego przeciwnika teorii Kopernika Tycho
+Brahe posłużyły Johannesowi Keplerowi (1571–1630) do ostatecznego potwierdzenia teorii Kopernika i sformułowania trzech praw ruchu
+planet. Model Kopernika wzmocniony teorią grawitacji Isaaka Newtona
+(1642–1726) pozwolił na odnalezienie kolejnych planet w Układzie Słonecznym w wyniku analizy odchyłek w ruchu orbitalnym znanych planet.
+Podobna metodyka stosowana jest do dziś także w poszukiwaniach planet
+poza Układem Słonecznym.
+1. Historia poszukiwań planet w Układzie Słonecznym
+Uran, szósta planeta w naszym Układzie była obserwowana przez cały szereg astronomów, zanim została formalnie odkryta. Już w roku 1690 John
+Flamsteed (1646–1719) zauważył to ciało i doniósł o tym fakcie, katalogując je jako gwiazdę, lecz ani on, ani kolejnych szesnastu innych astronomów nie zainteresowało się tym obiektem bliżej. Planetę tę ponownie
+obserwował szereg razy Piotr C. Lemonnier (1715–1799), a Tobiasz Mayer
+(1723–1762) wpisał ją po raz kolejny do katalogu gwiazd. Dopiero w roku
+1781 William Hershel (1738–1822) uznał Urana za nową kometę, czym
+zainteresował Bocharta de Saron (1730–1794), który zidentyfi kował w tym
+odkryciu nową planetę. Ciekawostką jest fakt, że Uran jest planetą widoczną gołym okiem, a mimo to od pierwszych wzmianek na jej temat do właściwej interpretacji minęło 171 lat obserwacji teleskopowych!
+Po odkryciu Urana zwrócono większą uwagę na zaproponowaną przez
+urodzonego w Chojnicach Daniela Titiusa (1729–1796) w roku 1766 i spopularyzowaną przez dyrektora obserwatorium astronomicznego w Berlinie
+Johanna Elerta Bodego (1747–1826) mnemotechniczną metodę pozwalają-cą na ocenę odległości do kolejnych planet w Układzie Słonecznym. Reguła
+Titiusa-Bodego poprawnie przewidywała rozmiary orbity Urana, przeczuwała bowiem istnienie planety między Marsem a Jowiszem. Intensywne
+poszukiwania takiego ciała przyniosły w roku 1801 odkrycie Ceres przez
+Giuseppe Piazziego (1746–1826), a następnie Pallas, Juno, Vesty i Astrei.
+Do końca 1851 roku znaleziono 15 nowych ,,planet’’ w miejsce brakującej.
+Zaniepokoiło to Williama Hershela, który ocenił w roku 1802 rozmiary
+Ceres na około 260 km1
+, a Pallas na około 237 km2
+. Wydawało się to zdecydowanie za mało jak na planetę i kolejne obiekty odkrywane między orbitami Mara i Jowisza, w tak zwanym Pasie Głównym Planetoid (dziś znamy ich
+około 320 000) zaczęto nazywać ,,asteroidami’’ bądź po polsku ,,planetoidami’’. Ten banalny z pozoru krok ma jednak bardzo istotne konsekwencje.
+Otóż okazuje się, że nie każde ciało poruszające się na fi rmamencie inaczej
+niż gwiazdy astronomowie chcą nazywać planetą.
+Warto w tym miejscu zauważyć, że zupełnie nieświadomie podobnego
+wyboru astronomowie dokonali w przypadku komet. Komety bowiem przez
+stulecia były obiektami kojarzonymi raczej ze zjawiskami atmosferycznymi,
+a nie astronomicznymi. Dopiero Tycho Brahe (1546–1601) ocenił w roku
+1577 odległość do widocznej wtedy komety na cztery razy większą od odległości Ziemia–Księżyc. Co ciekawe, myśl o tym, że kometa może być ciałem
+krążącym wokół Słońca, odrzucali także Galileusz i Kepler. Kiedy wreszcie
+w 1681 roku uczeń Heweliusza, Georg Samuel Doerfel (1643–1688) na podstawie obserwacji komety Kircha z roku 1680 stwierdził, że komety krążą
+wokół Słońca po paraboli, a teoria grawitacji Newtona pozwoliła w roku
+1687 spostrzeżenie to udowodnić, nikomu już nie przyszło do głowy, by
+komety nazywać planetami.
+Innymi interesującymi obiektami, które dla odmiany utraciły swoją
+planetarną naturę, są księżyce. Starożytni Grecy nazywali naszego satelitę,
+Księżyc, planetą. Do odkrycia księżyców Jowisza w roku 1610 przez Galileusza był on jedynym znanym obiektem tego typu. Także Galileusz nowo
+odkryte ciała nadal nazywał planetami. Pierwszym, który zwrócił uwagęna ten problem, był Christiaan Huygens (1629–1695), odkrywca Tytana,
+największego – jak sam pisał – z ,,księżyców’’ Saturna. Termin przez niego
+zastosowany wynikał z analogicznej roli Tytana krążącego wokół Saturna
+do tej, jaką pełni krążący wokół Ziemi Księżyc. Johannes Kepler wprowadził
+do literatury zamienny termin „satellita” i obecnie posługujemy się obydwoma. Co więcej, termin zaproponowany przez Keplera przyjął się także
+na okoliczność sztucznych ciał wysyłanych w przestrzeń kosmiczną wokół
+innych ciał, mamy zatem dziś satelity naturalne, czyli księżyce, oraz satelity sztuczne.
+Widzimy, że między XVII a XIX wiekiem pojawiła się trochę inna niż
+starogrecka defi nicja planety. Zaczęto tak nazywać ciała o dostatecznie
+dużej masie krążące wokół Słońca na orbicie eliptycznej.
+Za odkrywcę Neptuna uznajemy Johanna Gottfrieda Gelle (1812–1910)
+oraz Heinricha Louisa d’Arrest (1822–1875), którzy planetę tę zaobserwowali w 1846 roku na podstawie obliczeń jej położenia wykonanych rok
+wcześniej (1845) przez studenta astronomii Johna C. Adamsa (1819–1892)
+oraz nieco później Urbaina Le Verriera (1811–1877). Historia odkrywania
+tej planety przypomina nieco tę dotyczącą Urana. Bezwiednie obserwowali
+go bowiem wcześniej Józef L. Lalande (w 1795 r.) i Jan Lamont (w 1845 r.).
+Okazało się jednak, że istnienie tej planety nie wyjaśnia do końca odchyłek
+w ruchu Urana wyznaczonych na podstawie znajomości jego orbity przez
+Aleksandra Bouvarda (1767–1843). Rozpoczęto zatem poszukiwania kolejnej planety. Jej orbitę wyliczyli jako pierwsi Percival Lowell (1855–1916)
+i Edward Pickering (1846–1919), lecz Plutona zaobserwował wiele lat później Clyde W. Tombaugh (1906–1997) asystent Lowella w roku 1930 jako
+obiekt 15 wielkości gwiazdowej, widoczny dopiero na fotografi ach nieba
+wykonanych przez teleskop. Pluton jest bardzo odległym od Słońca, bo
+znajdującym się 39,5 razy dalej niż Ziemia i stosunkowo małym ciałem
+o średnicy zaledwie około 2302 km, mniejszym nawet od naszego Księżyca,
+którego średnica równikowa wynosi 3476 km.
+Jednak to nie rozmiary zdecydowały o przyszłości Plutona. W miarę
+jak do powszechnego użytku w astronomii weszły cyfrowe odbiorniki,
+których działanie oparte jest na kamerach CCD, już za pomocą stosunko-wo niewielkich teleskopów stało się możliwe poszukiwanie dodatkowych
+ciał w naszym Układzie Słonecznym. Od około 1992 roku odkryto w okolicach orbity Plutona wiele podobnych do niego obiektów. Okazało się,
+że obiekty te tworzą za orbitą Neptuna pas podobny do Pasa Głównego
+Planetoid, tzw. Pas Kuipera. Tysiące małych ciał krążą tam na zbliżonych
+orbitach i w wyniku zderzeń między nimi niektóre wpadają do wnętrza
+Układu Słonecznego w postaci komet krótkookresowych. W szczególności znaleziono tam takie obiekty, jak Haumea (o średnicy ok. 1100 km)
+i Makemake (o średnicy ok. 1500 km). Jeszcze dalej od Słońca znaleziono
+Eris (średnica około 2300 km) i cały szereg podobnych obiektów, które
+czekają na bliższe zbadanie. Taki rozwój sytuacji skłonił astronomów do
+ponownego rozważenia terminu planety. W roku 2006 w Pradze Zgromadzenie Ogólne Międzynarodowej Unii Astronomicznej w drodze głosowania ustaliło, że planetą w Układzie Słonecznym będziemy nazywać
+obiekt, który spełni następujące trzy warunki: (1) krąży wokół Słońca,
+(2) ma kształt kulisty, gdyż posiada wystarczającą masę, by własną grawitacją pokonać siły spójności ciała sztywnego oraz (3) wyczyścił swoją
+orbitę z mniejszych bądź podobnych obiektów. Pluton nie spełnia warunku (3) i dlatego wraz z Humeą, Makemake oraz znaną nam już Ceres
+został określony mianem planety karłowatej. Jest wielce prawdopodobne,
+że lista tego typu obiektów będzie z czasem dłuższa. Nietrudno zauważyć,
+że próbując rozwiązać problem nazewnictwa ciał w Układzie Słonecznym
+związany z odkrywaniem coraz większej liczby małych ciał, astronomowie skupili się faktycznie na zdefi niowaniu najmniejszego obiektu, który
+jeszcze nazywać będziemy planetą.
+2. Planety poza Układem Słonecznym
+Tymczasem w astronomii zaszły rewolucyjne zmiany w zupełnie nowym
+kierunku. Już pod koniec lat 80. ubiegłego wieku astronomowie zaczęli odkrywać przy innych gwiazdach obiekty podobne do planet. Jednym z pierwszych doniesień na ten temat była praca D. Lathama i współpracowników
+z roku 1989, w której sugerowali oni istnienie nieznanego składnika orbi-tującego wokół gwiazdy typu słonecznego HD 114762. Obiekt ten mógłby
+być brązowym karłem3
+ lub masywną planetą o masie co najmniej 11 razy
+większej niż masa Jowisza (czyli około 3000 razy bardziej masywną niż
+Ziemia). Późniejsze badania B. Cochrana i innych z roku 1991 potwierdziły
+ten wynik i zebrane do dziś dane dowodzą, że mamy tu do czynienia raczej
+z brązowym karłem niż planetą.
+Pierwszą planetę przy gwieździe innej niż Słonce, a równocześnie
+pierwszy pozasłoneczny układ planetarny wokół pulsara PSR 1257+12 składający się z trzech planet odkrył w roku 1992 Aleksander Wolszczan wraz
+z współpracownikiem D.A. Frailem. Wchodzące w jego skład obiekty charakteryzują się masami z całą pewnością w zakresie mas planetarnych znanych z naszego Układu Słonecznego, gdyż wynoszą od 0,025 do 4,3 masy
+Ziemi! Ten szczególny układ planetarny, krążący wokół ,,martwej’’ gwiazdy neutronowej, został odkryty całkowicie nietypową techniką opartą na
+superprecyzyjnych pomiarach radiowych. Technika ta jest bardzo rzadko
+stosowana, wymaga ona bowiem ogromnego nakładu czasu obserwacji oraz
+największego na świecie radioteleskopu, jak ten w Arecibo o średnicy czaszy 305 metrów, wykorzystany przez Wolszczana. Oczywiście w przypadku
+planet Wolszczana nie tylko technika jest nietypowa, również układ planetarny w tak nietypowym środowisku jest zagadką sam w sobie.
+Dopiero po trzech latach od odkrycia Wolszczana i Fraila zespół astronomów szwajcarskich Michel Mayora i Didier Queloza odkrył planetę przy
+gwieździe podobnej do naszego Słońca. Odkryta w roku 1995 planeta na
+orbicie 51 Pegasi miała podwójnie przełomowe znaczenie. Po pierwsze, po
+raz pierwszy do detekcji planet poza Układem Słonecznym zastosowano
+z powodzeniem technikę precyzyjnych pomiarów prędkości gwiazd opartą na rozszczepionym za pomocą spektrografu świetle gwiazdy. Precyzja
+osiągana przez astronomów poszukujących planet przebiła dotychczasową o 100–1000 razy. Taka dramatyczna zmiana dokładności w pomiarach
+otworzyła zupełnie nowy horyzont dla badań. Technika ta, rozwijana od lat
+60., wymaga co prawda stosowania stosunkowo dużych teleskopów i skomplikowanych spektrografów, jednak już obecnie pozwala na pomiary prędkości gwiazd z dokładnością lepszą niż 1 metr na sekundę i w niezbyt odległej przyszłości może pozwolić na wykrywanie planet o masach podobnych
+do masy Ziemi. Odkrywanie planet stało się z czasem rutyną. Warto jednak
+pamiętać, że aby ruch gwiazdy będący odbiciem ruchu orbitalnego krążącej
+wokół niej gwiazdy był dla nas mierzalny, planeta musi krążyć na orbicie,
+która nie jest prostopadła do kierunku patrzenia obserwatora ziemskiego.
+Drugi istotny przełom wynikający z odkrycia Mayora i Queloza to planeta krążąca wokół 51 Pegasi – ogromny obiekt, podobny do naszego Jowisza,
+ale krążący wokół swojego słońca na orbicie ciaśniejszej niż orbita Merkurego. Nikt nie spodziewał się takiej planety! Z czasem odkryto wiele tego
+typu planet – gorących Jowiszy – i stało się jasne, dlaczego wcześniejsze
+poszukiwania analogów naszego Jowisza, tzn. masywnych planet na rozległych orbitach, spełzły na niczym. Gorących Jowiszy jest bardzo dużo i stosunkowo łatwo je znaleźć. Kolejny raz naukowcy ponieśli konsekwencje
+braku wyobraźni.
+To właśnie odkrycie przez Mayora i Queloza pierwszej planety orbitującej gwiazdę podobną do naszego Słońca spowodowało nieprawdopodobny
+wzrost zainteresowania planetami oraz rozkwit technik badawczych im
+poświęconych. Gdy było już jasne, że planety rzeczywiście krążą wokół innych gwiazd próbowano adaptować do ich poszukiwań znane już wcześniej
+techniki astrofi zyki obserwacyjnej.
+Stosunkowo łatwo można znaleźć planetę przy innej gwieździe wtedy,
+gdy jej orbita jest dokładnie równoległa do kierunku patrzenia obserwatora
+ziemskiego na tę gwiazdę. Okresowo zachodzą w takiej konfi guracji zjawiska przejścia planety na tle tarczy jej gwiazdy, z Ziemi obserwowane jako
+krótkotrwałe obniżenie całkowitego blasku gwiazdy, zazwyczaj o mniej niż
+1%. Obserwacje takiego zjawiska są zasadniczo bardzo proste i nie wymagają zastosowania dużych teleskopów. Ze względu jednak na szczególną
+i rzadką konfi gurację orbity planety samo zjawisko jest niezmiernie rzadkie
+i aby efektywnie je wykrywać, należy równocześnie prowadzić obserwacje
+dziesiątków tysięcy gwiazd. Projekt taki nadaje się świetnie do realizacji
+za pomocą teleskopu umieszczonego na orbicie Ziemi, który dodatkowo będzie uwolniony od wpływu atmosfery i wynikających z jej istnienia ograniczeń. Faktycznie, teleskopy kosmiczne Corot i Kepler z powodzeniem
+znalazły setki planet w ten sposób.
+Wymienione wyżej trzy techniki poszukiwań planet mają charakter pośredni. Faktycznie obserwujemy gwiazdy (ich jasność czy prędkość), które
+interpretujemy jako istnienie planet przez porównanie z odpowiednimi
+modelami matematycznymi zachodzącego zjawiska. Dużo łatwiej byłoby,
+gdyby planety przy innych gwiazdach można było wykrywać w sposób bezpośredni: na przykład zwyczajnie widząc je przy ich macierzystych gwiazdach. Niestety, gwiazdy znajdują się w ogromnych odległościach, planety
+krążące wokół nich świecą jedynie bardzo słabym, odbitym światłem swoich
+słońc, a ich orbity są dla nas w ogromnej większości przypadków zbyt mało
+rozległe, byśmy mogli światło emitowane przez planetę oddzielić od blasku
+gwiazdy. Jedynie w kilku szczególnych przypadkach udało się ogromne planety znaleźć przy małych i chłodnych gwiazdach, w optymalnej konfi guracji
+dla tej, bardzo ograniczonej naszymi technicznymi możliwościami techniki.
+Zważywszy na nasze obecne techniczne ograniczenia, wyniki poszukiwań planet przy innych gwiazdach są zdumiewające. Znamy ich dziś setki. Okazuje się, że planety występują przy różnych gwiazdach. Zarówno
+przy takich, które przypominają nasze Słońce, jak i znacznie młodszych
+i starszych, bardziej i mniej masywnych. Również bogactwo planet, ale
+i architektur układów planetarnych okazało się niezwykłe. Poza wspomnianymi wyżej gorącymi gazowymi olbrzymami odkryto także zwyczajne gazowe olbrzymy, krążące z dala od swoich słońc, podobnie jak to obserwuje
+się w naszym Układzie Słonecznym w przypadku Jowisza, Saturna Urana
+i Neptuna. Odkryto także planety o znacznie mniejszych masach, podobne
+do planet skalistych obecnych w naszym układzie planetarnym (do grupy
+tej zaliczamy Merkurego, Wenus, Ziemię i Marsa, czyli planety o jądrach
+żelaznych). Orbity nowo odkrytych planet w innych układach są często
+niezwykłe. Okazało się, że układy planetarne nie muszą wyglądać jak Układ
+Słoneczny. Możliwe są sytuacje, w których płaszczyzny orbit są do siebie
+znacznie nachylone. Znamy także takie przypadki, gdy planeta krąży po
+orbicie w przeciwną stronę niż obraca się jej słońce. Fakty te wskazują na to, że obserwujemy układy planetarne na różnym stopniu ich ewolucji.
+Od młodych, dynamicznie niestabilnych konfi guracji, poprzez ustabilizowane stare układy aż do pozostałości po systemach zaburzonych silnie
+przez przemiany fi zyczne zachodzące w centralnej gwieździe.
+3. Planety a brązowe karły
+W miarę odkrywania coraz to nowych planet astronomowie znów zostali
+zmuszeni, by zastanowić się nad tym, co to jest planeta. Kolejne odkrycia zaczęły bowiem przynosić planety o masach znacznie większych niż
+wydawało się możliwe do przyjęcia. Obiekty o masach 20, 30 czy 50 razy
+masywniejsze od Jowisza stały się problemem. Pojawiło się zatem pytanie
+o górną granicę masy planety. Astronomowie potrafią dobrze podać dolną
+granicę masy gwiazdy, ponieważ określa ją konkretny proces fi zyczny. Jeśli
+obiekt jest dostatecznie masywny, by jego grawitacja wytworzyła w centrum temperaturę i ciśnienie wystarczająco wysokie, by zainicjować reakcje jądrowe przetwarzające wodór w hel, to obiekt taki nazywać będziemy
+gwiazdą. Taka graniczna masa zależy nieco od jego składu chemicznego
+i wynosi koło 70 mas Jowisza. Czy zatem każdy obiekt o masie poniżej tej
+granicy nazywać można planetą? Sprawa nie jest aż tak prosta. Badania
+takich mało masywnych obiektów pokazały, że istnieje cała ich grupa, która
+na pewien czas uruchamia reakcje jądrowego spalania litu (obiekty o masie powyżej 63 mas Jowisza) lub deuteru (obiekty o masie powyżej 13 mas
+Jowisza). Teoretycznie istnienie takich obiektów, nazwanych brązowymi
+karłami, przewidział Jil Tarter w roku 1975, a pierwszy raz zaobserwowano
+je w roku 1995, czyli mniej więcej w czasie, gdy zaczęto odkrywać planety.
+Jak zatem rozróżnić masywne planety od brązowych karłów? Rzecz nie
+jest prosta i w szczególności nie jest jasne, czy sama Natura dzieli takie
+obiekty na różne typy. Aby sprawy uporządkować, astronomowie postanowili wrócić do podstaw i rozważyć, w jaki sposób takie mało masywne obiekty powstają. Uważa się, że brązowe karły, podobnie jak gwiazdy,
+powstają w wyniku kolapsu, a następnie fragmentacji ogromnego obłoku
+międzygwiazdowej materii gazowo-pyłowej o początkowych rozmiarach rzędu 100 lat świetlnych i masie rzędu miliona mas Słońca. Obłok taki zagęszcza się, nagrzewa i dzieli na coraz mniejsze części, z których powstają
+w końcu gwiazdy. Jeśli w podobny sposób powstają brązowe karły, to ich
+budowa wewnętrzna będzie adekwatna do budowy mało masywnych, a zatem chłodnych gwiazd. Będą to obiekty w pełni konwektywne, bardzo wolno stygnące. Takie obiekty głównie będą poruszały się swobodnie w przestrzeni międzygwiazdowej, lecz część z nich może krążyć wokół zwykłych,
+spalających wodór gwiazd, których pole grawitacyjne je uwięzi, gdy znajdą
+się dostatecznie blisko.
+Jeśli natomiast rozważymy powstawanie planet, to obecnie astronomowie uważają, że planety rodzą się z materii wokół gwiazdowej, będącej
+pozostałością po tej, z której powstała gwiazda, ale uwięzionej na jej orbicie
+w formie dysku, nazywanego protoplanetarnym, o masie będącej zaledwie
+ułamkiem (około 10%) masy gwiazdy. Możliwe wydają się dwa schematy
+powstawania planet w takim dysku. Najprawdopodobniej najważniejszym
+z nich jest akrecja jąder, powolne budowanie, ,,sklejanie’’ coraz większych
+obiektów, głównie z pojedynczych ziaren pyłu. Gdy zbudowane zostaną
+w odpowiedniej ilości ciała o rozmiarach rzędu kilometrów, zaczynają one
+oddziaływać grawitacyjnie i tworzą w końcu skalisty obiekt, który staje
+się planetą podobną do Merkurego, Wenus, Ziemi czy Marsa. Proces ten
+może trwać do kilku milionów lat. Siły grawitacji mogą spowodować, że
+część z takich skalistych obiektów zgromadzi także pozostały w dysku protoplanetarnym gaz, w wyniku czego wokół skalistego ,,jądra’’ planety powstanie dodatkowo stosunkowo szybko ogromna gazowa otoczka, tworząc
+,,gazowego olbrzyma’’, jak Jowisz, Saturn, Uran czy Neptun. Alternatywny
+proces, zapaść grawitacyjna, może w znacznie krótszym czasie spowodować
+powstanie masywnych planet, jednak efektywność tego procesu jest prawdopodobnie niższa. Obiekty powstałe w dysku protoplanetarnym z zasady
+krążyć będą wokół swojej gwiazdy. Wyjątkiem będą takie ciała, które w wyniku oddziaływań grawitacyjnych z innymi podobnymi do siebie zostaną
+,,wyrzucone’’ poza zasięg pola grawitacyjnego ich macierzystej gwiazdy
+i staną się obiektami swobodnie poruszającymi się w przestrzeni międzygwiazdowej.Jak widzimy, rozważania dotyczące powstawania obiektów mało masywnych prowadzą nas do konkluzji, że ciała, które powstają jako planety, mogą
+krążyć wokół gwiazd, przy których powstały albo poruszać się swobodnie
+w przestrzeni międzygwiazdowej. Ciała, które powstały w procesie podobnym
+do powstawania gwiazd, brązowe karły także mogą krążyć wokół zwykłych
+gwiazd, choć pewnie częściej będą samotne. Co więcej, w dyskach protoplanetarnych mogą powstawać obiekty podobne do brązowych karłów. Aby wprowadzić nieco porządku w świecie planet, astronomowie umówili się, że nie
+będą nazywać planetą obiektów swobodnie poruszających się w przestrzeni
+międzygwiazdowej niezależnie od tego, w jaki sposób one powstały. Pojęcie
+planety zostało zatem ograniczone do ciał krążących wokół gwiazd. Co więcej, aby odróżnić planety od brązowych karłów przyjęto zasadę, że planetą
+będziemy nazywać obiekt, który nigdy nie rozpalił we wnętrzu reakcji jądrowych, czyli o masie poniżej około 13 mas Jowisza. Taka umowa defi niuje zatem maksymalną masę planety. Niestety, nie jest to defi nicja ścisła. Nadal do
+grona planet zaliczyć musimy obiekty o masie poniżej 13 mas Jowisza, które
+powstały w wyniku fragmentacji obłoku protogwiazdowego i które znalazły
+się na orbicie wokół gwiazdy. Wydaje się, że ostatecznym sposobem na potwierdzenie planetarnego charakteru najbardziej masywnych obiektów tego
+typu będą badania struktury wewnętrznej, ale do tego jeszcze bardzo daleko.
+Musimy się zatem pogodzić z brakiem dokładnej defi nicji planety i z pewną
+dozą niepewności w tym zakresie. Być może w przyszłości Natura pozwoli
+nam znaleźć odpowiedni klucz do oznaczania planet i umożliwi odpowiedź
+na zadane w tytule pytanie, a być może z czasem przestanie to być istotne.
