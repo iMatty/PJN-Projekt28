@@ -11,7 +11,7 @@ library(corrplot)
 library(flexclust)
 
 #zmiana katalogu roboczego
-workDir <- "C:\\Users\\mwmat\\Desktop\\PJN-Projekt28"
+workDir <- "C:\\Users\\mwmat\\Desktop\\PJN-Projekt28" ## ustaw swoj¹ lokalizacje
 setwd(workDir)
 
 #lokalizacja katalogow funkcjonalnych
