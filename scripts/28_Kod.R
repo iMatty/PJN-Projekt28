@@ -461,9 +461,12 @@ names(termsImportance1) <- colnames(results$terms)
 keywordsLda1 <- head(sort(termsImportance1, decreasing = T))
 keywordsLda1
 
-##chmura tagów
+##chmura tagów --- dla ka¿dego dokumentu wyznacz s³owa/frazy kluczowe korzystaj¹c z ró¿nych metod
 par(mai = c(0,0,0,0))
-wordcloud(corpus[16], max.words = 200, colors = brewer.pal(8,"PuOr"))
+
+for (i in 1:20) {
+  wordcloud(corpus[i], max.words = 150, colors = brewer.pal(8,"PuOr"))
+}
 
 ##################################################################################### clustering.R
 #analiza skupieñ dokumentów
