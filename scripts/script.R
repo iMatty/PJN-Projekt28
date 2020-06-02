@@ -21,6 +21,9 @@ workspaceDir <- ".\\workspaces"
 dir.create(outputDir, showWarnings = FALSE)
 dir.create(workspaceDir, showWarnings = FALSE)
 
+#lokalizacja katalogu ze skryptami
+scriptsDir <- ".\\scripts"
+
 #utworzenie korpusu dokumentow
 corpusDir <- paste(
   inputDir,
@@ -91,7 +94,7 @@ preprocessedDir <- paste(
 dir.create(preprocessedDir)
 writeCorpus(corpus, path = preprocessedDir)
 
-####################################################################################################################################
+#################################################################################################################################### frequency_matrix.R
 
 #utworzenie korpusu dokumentów przetworzonych
 corpusDir <- paste(
@@ -176,10 +179,7 @@ matrixFile <- paste(
 )
 write.table(tdmTfAllMatrix, file = matrixFile, sep = ";", dec = ",", col.names = NA)
 
-##################################################################################################
-
-#lokalizacja katalogu ze skryptami
-scriptsDir <- ".\\scripts"
+################################################################################################## pca.R
 
 #analiza g³ównych sk³adowych
 pca <- prcomp(dtmTfidfBounds)
@@ -247,96 +247,102 @@ legend(
 dev.off()
 
 ################################################################################################ lsa.R
-#analiza ukrytych wymiarów semantycznych (dekompozycja wg. wartoœci osobliwych)
-lsa <- lsa(tdmTfidfBoundsMatrix)
-lsa$tk #odpowiednik macierzy U, wspó³rzêdne wyrazów
-lsa$dk #odpowiednik macierzy V, wspó³rzêdne dokumentów
-lsa$sk #odpowiednik macierzy D, znaczenie sk³adowych
+#analiza ukrytych wymiarów swmantycznych (dekompozycja wg wartoœci osobliwych)
+lsa <- lsa(tdmTfBoundsMatrix)
 
 #przygotowanie danych do wykresu
+coordDocs <- lsa$dk%*%diag(lsa$sk)
 coordTerms <- lsa$tk%*%diag(lsa$sk)
-coorDocs <- lsa$dk%*%diag(lsa$sk)
-terms <- c("") #tu trzeba s³owa klucze
-#(harry", "czarodziej", "dumbledore", "hermiona", "ron", "komnata", "powiedzieæ", "chcieæ", "dowiadywaæ", "albus", "syriusz", "lupin", "umbridge", "edmund", "kaspian", "³ucja", "czarownica", "piotr", "zuzanna", "aslana", "narnii", "baron", "dziecko", "wyspa", "bell", "edward", "wampir", "jacob"
 termsImportance <- diag(lsa$tk%*%diag(lsa$sk)%*%t(diag(lsa$sk))%*%t(lsa$tk))
-importantTerms <- names(tail(sort(termsImportance),25))
-coordTerms <- coordTerms[terms,]
-#coordTerms <- coordTerms[importantTerms,]
-legend <- paste(paste("d", 1:19, sep = ""), rownames(coorDocs), sep = "<-")
-x1 <- coorDocs[,1]
-y1 <- coorDocs[,2]
-x2 <- coordTerms[,1]
-y2 <- coordTerms[,2]
+importantTerms <- names(tail(sort(termsImportance),30))
+coordImportantTerms <- coordTerms[importantTerms,]
+legend <- paste(paste("d", 1:19, sep = ""), rownames(coordDocs), sep = ": ")
+x1 <- coordDocs[,1]
+y1 <- coordDocs[,2]
+x2 <- coordImportantTerms[,1]
+y2 <- coordImportantTerms[,2]
 
-#wykres dokumentów i wybranych s³ów w przestrzeni dwuwymiatowej
+#wykres dokumentów w przestrzeni dwuwymiarowej
 options(scipen = 5)
 plot(
-  x1, 
-  y1, 
-  xlim = c(-0.2,0.05),
-  #ylim = c(,),
-  pch = 1, 
-  col = "orange"
-)
-points(
-  x2, 
-  y2, 
-  pch = 2, 
-  col = "brown"
+  x1,
+  y1,
+  col = "orange",
+  main = "Analiza ukrytych wymiarów semantycznych",
+  xlab = "SD1",
+  ylab = "DS2",
+  #xlim = c(-0.16,0.16),
+  #ylim = c(,)
 )
 text(
-  x1, 
+  x1,
   y1, 
-  paste("d", 1:19, sep = ""), 
+  paste("d", 1:19, sep = ""),
   col = "orange",
   pos = 4
 )
-text(
-  x2, 
-  y2, 
-  rownames(coordTerms), 
-  col = "brown",
-  pos = 4
+points(
+  x2,
+  y2,
+  pch = 2,
+  col = "brown"
 )
-legend("bottomleft", legend, cex = 0.7, text.col = "orange")
+text(
+  x2,
+  y2,
+  rownames(coordImportantTerms),
+  col = "brown"
+)
+legend(
+  "topleft",
+  legend,
+  cex = 0.6,
+  text.col = "orange"
+)
 
 #eksport wykresu do pliku .png
 plotFile <- paste(
-  outputDir, 
+  outputDir,
   "lsa.png",
   sep = "\\"
 )
-png(file = plotFile)
+png(filename = plotFile)
 options(scipen = 5)
 plot(
-  x1, 
-  y1, 
-  xlim = c(-0.2,0.05),
-  #ylim = c(,),
-  pch = 1, 
-  col = "orange"
-)
-points(
-  x2, 
-  y2, 
-  pch = 2, 
-  col = "brown"
+  x1,
+  y1,
+  col = "orange",
+  main = "Analiza ukrytych wymiarów semantycznych",
+  xlab = "SD1",
+  ylab = "DS2",
+  #xlim = c(-0.16,0.16),
+  #ylim = c(,)
 )
 text(
-  x1, 
+  x1,
   y1, 
-  paste("d", 1:19, sep = ""), 
+  paste("d", 1:19, sep = ""),
   col = "orange",
   pos = 4
 )
-text(
-  x2, 
-  y2, 
-  rownames(coordTerms), 
-  col = "brown",
-  pos = 4
+points(
+  x2,
+  y2,
+  pch = 2,
+  col = "brown"
 )
-legend("bottomleft", legend, cex = 0.5, text.col = "orange")
+text(
+  x2,
+  y2,
+  rownames(coordImportantTerms),
+  col = "brown"
+)
+legend(
+  "topleft",
+  legend,
+  cex = 0.6,
+  text.col = "orange"
+)
 dev.off()
 
 ############################################################################################################## Ida.R
@@ -476,14 +482,14 @@ hclust1 <- hclust(dist1, method = "ward.D2")
 plot(hclust1)
 barplot(
   hclust1$height, 
-  names.arg = 18:1, 
+  names.arg = 19:1, 
   col = "orange"
 )
 nClusters1 = 5
 clusters1 <- cutree(hclust1, k = nClusters1)
-clustersMatrix1 <- matrix(0, 19, nClusters1)
+clustersMatrix1 <- matrix(0, 20, nClusters1)
 rownames(clustersMatrix1) <- names(clusters1)
-for (i in 1:19) {
+for (i in 1:20) {
   clustersMatrix1[i,clusters1[i]] <- 1
 }
 corrplot(clustersMatrix1)
@@ -497,14 +503,14 @@ hclust2 <- hclust(dist2, method = "ward.D2")
 plot(hclust2)
 barplot(
   hclust2$height, 
-  names.arg = 18:1, 
+  names.arg = 19:1, 
   col = "orange"
 )
 nClusters2 = 3
 clusters2 <- cutree(hclust2, k = nClusters2)
-clustersMatrix2 <- matrix(0, 19, nClusters2)
+clustersMatrix2 <- matrix(0, 20, nClusters2)
 rownames(clustersMatrix2) <- names(clusters2)
-for (i in 1:19) {
+for (i in 1:20) {
   clustersMatrix2[i,clusters2[i]] <- 1
 }
 corrplot(clustersMatrix2)
@@ -532,14 +538,14 @@ Bk_plot(
 ###eksperyment 3
 nClusters3 <- 3
 kmeans3 <- kmeans(dtmTfidfBounds, centers = nClusters3)
-clustersMatrix3 <- matrix(0, 19, nClusters3)
+clustersMatrix3 <- matrix(0, 20, nClusters3)
 rownames(clustersMatrix3) <- names(kmeans3$cluster)
-for (i in 1:19) {
+for (i in 1:20) {
   clustersMatrix3[i,kmeans3$cluster[i]] <- 1
 }
 corrplot(clustersMatrix3)
 
-pattern <- c(1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3)
+pattern <- c(1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3)
 
 ##porównanie wyników klasyfikacji
 randEx1Ex3 <- randIndex(clusters1, kmeans3$cluster, F)
