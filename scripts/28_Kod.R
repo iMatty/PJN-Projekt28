@@ -205,7 +205,7 @@ plot(
   main = "Analiza g³ównych sk³adowych",
   xlab = "PC1",
   ylab = "PC2",
-  xlim = c(-0.16,0.16),
+  xlim = c(-0.027,0.055),
   #ylim = c(,)
 )
 text(
@@ -355,7 +355,7 @@ dev.off()
 ############################################################################################################## Ida.R
 #analiza ukrytej alokacji Dirichlet'a
 nTerms <- ncol(dtmTfAll)
-nTopics <- 4
+nTopics <- 5
 lda <- LDA(
   dtmTfAll,
   k = nTopics,
@@ -409,6 +409,16 @@ barplot(
   main = "Temat 4",
   xlab = "Prawdopodobieñstwo",
   col = "lightgreen"
+)
+
+topic5 <- head(sort(results$terms[5,], decreasing = T),20)
+barplot(
+  rev(topic5),
+  horiz = T,
+  las = 1, 
+  main = "Temat 5",
+  xlab = "Prawdopodobieñstwo",
+  col = "blue"
 )
 
 #prezentacja dokumentów
