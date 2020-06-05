@@ -62,6 +62,7 @@ corpus <- tm_map(corpus, removeChar, "«")
 corpus <- tm_map(corpus, removeChar, "„")
 corpus <- tm_map(corpus, removeChar, "”")
 corpus <- tm_map(corpus, removeChar, "–")
+corpus <- tm_map(corpus, removeChar, "“")
 
 #usuniêcie rozszerzeñ z nazw dokumentów
 cutExtensions <- function(document, extension) {
